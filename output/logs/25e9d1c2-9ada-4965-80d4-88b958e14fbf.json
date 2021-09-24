@@ -1,0 +1,22 @@
+{
+    "process": "GoogleRSS",
+    "file-name": "25e9d1c2-9ada-4965-80d4-88b958e14fbf",
+    "date": "09/23/2021-23:26:59",
+    "logs": [
+        {
+            "timestamp": "0:00:00.000006",
+            "type": "DEBUG",
+            "message": "Initializing GoogleRSS Tap"
+        },
+        {
+            "timestamp": "0:00:00.000408",
+            "type": "DEBUG",
+            "message": "[Term]: APPL new phone [Request]: https://news.google.com/rss/search?q=APPL%20new%20phone+when=24h&ceid=US:en&hl=en-US&gl=US"
+        },
+        {
+            "timestamp": "0:00:01.078123",
+            "type": "DEBUG",
+            "message": "[Term]: GME stock [Request]: https://news.google.com/rss/search?q=GME%20stock+when=24h&ceid=US:en&hl=en-US&gl=US"
+        }
+    ]
+}
