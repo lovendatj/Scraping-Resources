@@ -1,4 +1,4 @@
-from Taps.GoogleRSS import GoogleRSS
+from Taps.GoogleRSS.GoogleRSS import GoogleRSS
 
 with GoogleRSS(verbose=True, outpath='./output') as goog:
     results = goog.get_xml(
