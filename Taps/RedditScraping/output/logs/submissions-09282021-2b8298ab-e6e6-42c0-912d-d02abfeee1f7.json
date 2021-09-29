@@ -1,0 +1,56 @@
+{
+    "process": "RedditData",
+    "date": "09/28/2021-22:15:08",
+    "logs": [
+        {
+            "timestamp": "0:00:00.000005",
+            "type": "LOG",
+            "message": "[RedditData] Process started."
+        },
+        {
+            "timestamp": "0:00:00.000864",
+            "type": "LOG",
+            "message": "[RedditData] Output path: '../Taps/RedditScraping/output'"
+        },
+        {
+            "timestamp": "0:00:00.000888",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/new.json?size=100&after="
+        },
+        {
+            "timestamp": "0:00:00.301947",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.302039",
+            "type": "LOG",
+            "message": "[WallStreetbetsELITE] Starting request: [Request]: https://www.reddit.com/r/WallStreetbetsELITE/new.json?size=100&after="
+        },
+        {
+            "timestamp": "0:00:00.897246",
+            "type": "LOG",
+            "message": "[WallStreetbetsELITE] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.897533",
+            "type": "LOG",
+            "message": "[FILE] Writing to ../Taps/RedditScraping/output/data/submissions-09282021-b80a9514-e784-4c94-868b-659454b3234e.json file.."
+        },
+        {
+            "timestamp": "0:00:00.898178",
+            "type": "LOG",
+            "message": "[FILE] Data written to data/submissions-09282021-b80a9514-e784-4c94-868b-659454b3234e.json."
+        },
+        {
+            "timestamp": "0:00:00.898237",
+            "type": "LOG",
+            "message": "[FILE] Logs written to logs/submissions-09282021-2b8298ab-e6e6-42c0-912d-d02abfeee1f7.json."
+        },
+        {
+            "timestamp": "0:00:00.898245",
+            "type": "LOG",
+            "message": "[RedditData] Process Completed."
+        }
+    ]
+}
