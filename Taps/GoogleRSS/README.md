@@ -8,7 +8,7 @@ The Google RSS News Feed utilizes Google Search with up-to date articles publish
 
 #### Sample code
 To customize the GoogleRSS Object, add string elements to the `query` parameter to change searched results from the Google RSS Feed. 
-```python3.9
+```python
 from Taps.GoogleRSS.GoogleRSS import GoogleRSS
 
 # Output file path

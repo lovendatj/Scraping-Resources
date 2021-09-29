@@ -8,7 +8,7 @@ The Reddit Scraping utilizes the submissions and comments feed to scrape data fr
 
 #### Sample code
 To customize the RedditScraping Object, add string subreddits to the `sub` list and `submissions|comments` to `queue` parameter to change searched results from the RedditScraping object. 
-```python3.9
+```python
 from Taps.RedditScraping.RedditData import RedditData
 
 # Output file path
