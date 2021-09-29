@@ -1,63 +1,81 @@
 import requests
-import time
 import urllib.parse as urlf
 import xml.etree.cElementTree as ET
-import os
-import json
-from datetime import datetime
+import time
+
+from Resources.FileHandler import FileHandler
 from Resources.LogEvent import LogEvent
-from typing import Dict, List, Tuple
+from typing import Dict, List
 
 
 class GoogleRSS:
-    def __init__(self, verbose: bool = False, outpath: str = '.') -> None:
-        self.process = self._type()
-        self.logger = LogEvent(self.process)
-        self.verbose = verbose
-        self.outpath = outpath
+
+    def __init__(self, *args, **kwargs) -> None:
+        self.verbose = bool(
+            kwargs['verbose']) if 'verbose' in kwargs.keys() and kwargs['verbose'] is not None else False
+        self.out_path = str(
+            kwargs['out_path']) if 'out_path' in kwargs.keys() and kwargs['out_path'] is not None else None
         self.default_link = 'https://news.google.com/rss/search?'
-        self._output_handler('Initializing GoogleRSS Tap')
 
     def __enter__(self, *args, **kwargs):
+        self.process = self._type()
+        self.logger = LogEvent(self.process, verbose=self.verbose)
+        self.logger.log_info(
+            f'[{self.process}] Process started.')
+        if self.out_path is not None:
+            self.file_handler = FileHandler(path=self.out_path)
+            _, message = self.file_handler.mkdir(
+                f'{str(self.process)}/{self.out_path}')
+            self.logger.log_info(
+                f'[{self.process}] Output path: \'{self.out_path}\'')
+        else:
+            self.file_handler = None
+            self.logger.log_info(
+                f'[{self.process}] Output path not provided.')
         return self
 
     def __exit__(self, type, value, traceback):
-        self.logger.log_file(path=f'{self.outpath}/logs', indent=4)
+        if self.file_handler is not None:
+            fname = f"logs/{self.file_handler.generate_file_name()}.json"
+            self.logger.log_info(f'[FILE] Logs written to {fname}.')
+            self.logger.log_info(
+                f'[{self.process}] Process Completed.')
+            self.file_handler.write_file(
+                file_name=fname,
+                data=self.logger.dump_logs(),
+                indent=4)
+        else:
+            return
 
-    def get_xml(self, query: List, when: str = None, utc_time: Tuple = None, dump_file: bool = False) -> Dict:
+    def get_xml(self, query: List, *args, **kwargs) -> Dict:
         return_data = {}
         for term in query:
             url_builder = f'{self.default_link}'
             try:
-                if when is not None:
-                    url_builder += f'q={urlf.quote(term)}+when={when}'
-                elif utc_time is not None:
-                    url_builder += f'q={urlf.quote(term)}+before={utc_time[0]}+after={utc_time[1]}'
+                if kwargs['when'] is not None:
+                    url_builder += f'q={urlf.quote(term)}+when={ str(kwargs["when"]) }'
+                elif kwargs['utc_time'] is not None:
+                    _start, _end = kwargs['utc_time']
+                    url_builder += f'q={urlf.quote(term)}+before={ _start }+after={ _end }'
                 else:
                     url_builder += f'q={urlf.quote(term)}'
                 url_builder += '&ceid=US:en&hl=en-US&gl=US'
 
-                self._output_handler(
-                    f'[Term]: {term} [Request]: {url_builder}')
+                self.logger.log_info(
+                    f'[Term] {term}: [Request]: {url_builder}')
 
                 return_data[term] = self._parse_xml(
                     requests.get(url_builder).text)
 
+                self.logger.log_info(
+                    f'[Term] {term}: Completed request.')
+                # Avoid Spamming, will get blocked.
                 time.sleep(.5)
 
             except Exception as error:
                 self.logger.log_error(
                     message=f'Error occured creating request. REQ: {url_builder}', quit=False)
-        if dump_file:
-            self.dump_data(data=return_data,
-                           path=f'{self.outpath}/data', indent=4)
         return return_data
-
-    def _output_handler(self, message):
-        if self.verbose:
-            self.logger.log_debug(message)
-        else:
-            self.logger.log_info(message)
 
     def _parse_xml(self, xml_str: str) -> List:
         out_data = []
@@ -72,22 +90,30 @@ class GoogleRSS:
             })
         return out_data
 
-    def _type(self):
-        return self.__class__.__name__
-
-    def dump_data(self, data: Dict, path: str, indent: int = None) -> None:
-        date_stamp = datetime.now().strftime('%m/%d/%Y-%H:%M:%S')
+    def file_out(self, data: Dict) -> None:
+        if self.file_handler is None:
+            self.logger.log_error(
+                "Output path not provided during initialization.")
+            return
         output = {
             "process": self.process,
-            "file-name": LogEvent._uuid4(),
-            "date": date_stamp,
+            "file-name": self.file_handler.generate_file_name(),
+            "date": self.logger.time_stamp(),
             "data": data
         }
-        filename = f"{path}/{output['file-name']}.json"
-        if not os.path.exists(path):
-            os.makedirs(path)
-        with open(filename, 'w', encoding='utf-8') as outfile:
-            if indent is not None:
-                json.dump(output, outfile, indent=indent)
-            else:
-                json.dump(output, outfile)
+
+        fname = f"data/{output['file-name']}.json"
+        self.logger.log_info(
+            f"[FILE] Writing to {self.file_handler._path()}/{fname} file..")
+        status, message = self.file_handler.write_file(
+            file_name=fname,
+            data=output,
+            indent=4
+        )
+        if status != 200:
+            self.logger.log_error(f'[FILE] {message}')
+        else:
+            self.logger.log_info(f'[FILE] {message}')
+
+    def _type(self):
+        return self.__class__.__name__

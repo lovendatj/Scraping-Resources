@@ -1,4 +1,4 @@
-import uuid
+
 import time
 import functools
 import json
@@ -13,16 +13,19 @@ class LogEvent():
         def __init__(self, message):
             super().__init__(message)
 
-    def __init__(self, process: str):
+    def __init__(self, process: str, *args, **kwargs):
         self.start_time = time.perf_counter()
         self.logs = []
         self.process = process
-        self.secret = "lovendatj"
+        if kwargs['verbose'] is not None:
+            self.verbose = kwargs['verbose']
 
     def _add_logs(log_type) -> Any:
         def decorator(func):
             @functools.wraps(func)
             def log_message(self, message, *args, **kwargs):
+                if self.verbose is not None and self.verbose:
+                    print(f'[DEBUG] {log_type}: {message}')
                 self.logs.append({
                     'timestamp': str(self._delta_time()),
                     'type': log_type,
@@ -31,10 +34,6 @@ class LogEvent():
                 return func(self, message, *args, **kwargs)
             return log_message
         return decorator
-
-    @_add_logs(log_type="DEBUG")
-    def log_debug(self, message: str) -> None:
-        print(f'[{self._delta_time()}] DEBUG:: {message}')
 
     @_add_logs(log_type="LOG")
     def log_info(self, message: str) -> None:
@@ -46,29 +45,15 @@ class LogEvent():
             raise self.LogException(message)
 
     def dump_logs(self) -> Dict:
-        date_stamp = datetime.now().strftime('%m/%d/%Y-%H:%M:%S')
         return {
             "process": self.process,
-            "file-name": LogEvent._uuid4(),
-            "date": date_stamp,
+            "date": self.time_stamp(),
             "logs": self.logs
         }
 
-    def log_file(self, path: str, filename: str = None, indent: int = None) -> None:
-        data = self.dump_logs()
-        filename = f"{path}/{data['file-name']}.json"
-        if not os.path.exists(path):
-            os.makedirs(path)
-        with open(filename, 'w', encoding='utf-8') as outfile:
-            if indent is not None:
-                json.dump(data, outfile, indent=indent)
-            else:
-                json.dump(data, outfile)
-
     def _delta_time(self) -> float:
         end_time = time.perf_counter()
-        return timedelta(seconds=end_time - self.start_time)
+        return timedelta(seconds=(end_time - self.start_time))
 
-    @staticmethod
-    def _uuid4() -> str:
-        return str(uuid.uuid4())
+    def time_stamp(self) -> str:
+        return datetime.now().strftime('%m/%d/%Y-%H:%M:%S')
