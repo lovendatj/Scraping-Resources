@@ -1,54 +1,54 @@
 {
     "process": "GoogleRSS",
-    "date": "09/28/2021-22:15:07",
+    "date": "09/28/2021-23:26:59",
     "logs": [
         {
-            "timestamp": "0:00:00.000006",
+            "timestamp": "0:00:00.000005",
             "type": "LOG",
             "message": "[GoogleRSS] Process started."
         },
         {
-            "timestamp": "0:00:00.000854",
+            "timestamp": "0:00:00.000935",
             "type": "LOG",
             "message": "[GoogleRSS] Output path: '../Taps/GoogleRSS/output'"
         },
         {
-            "timestamp": "0:00:00.000918",
+            "timestamp": "0:00:00.000991",
             "type": "LOG",
             "message": "[Term] APPL new phone: [Request]: https://news.google.com/rss/search?q=APPL%20new%20phone+when=24h&ceid=US:en&hl=en-US&gl=US"
         },
         {
-            "timestamp": "0:00:00.524470",
+            "timestamp": "0:00:00.629329",
             "type": "LOG",
             "message": "[Term] APPL new phone: Completed request."
         },
         {
-            "timestamp": "0:00:01.030378",
+            "timestamp": "0:00:01.137180",
             "type": "LOG",
             "message": "[Term] GME stock: [Request]: https://news.google.com/rss/search?q=GME%20stock+when=24h&ceid=US:en&hl=en-US&gl=US"
         },
         {
-            "timestamp": "0:00:01.608776",
+            "timestamp": "0:00:01.774962",
             "type": "LOG",
             "message": "[Term] GME stock: Completed request."
         },
         {
-            "timestamp": "0:00:02.122593",
+            "timestamp": "0:00:02.283897",
             "type": "LOG",
-            "message": "[FILE] Writing to ../Taps/GoogleRSS/output/data/09282021-8f1444e2-407b-4816-b012-6c53f20a3048.json file.."
+            "message": "[FILE] Writing to ../Taps/GoogleRSS/output/data/09282021-427e97b5-7066-4d4d-bc43-ec2b2fef8262.json file.."
         },
         {
-            "timestamp": "0:00:02.129020",
+            "timestamp": "0:00:02.290353",
             "type": "LOG",
-            "message": "[FILE] Data written to data/09282021-8f1444e2-407b-4816-b012-6c53f20a3048.json."
+            "message": "[FILE] Data written to data/09282021-427e97b5-7066-4d4d-bc43-ec2b2fef8262.json."
         },
         {
-            "timestamp": "0:00:02.129082",
+            "timestamp": "0:00:02.290436",
             "type": "LOG",
-            "message": "[FILE] Logs written to logs/09282021-e9ec9657-0371-4e8e-ab17-8ba2136092ee.json."
+            "message": "[FILE] Logs written to logs/09282021-ace9d288-51ab-41e0-9df2-63479556347b.json."
         },
         {
-            "timestamp": "0:00:02.129091",
+            "timestamp": "0:00:02.290445",
             "type": "LOG",
             "message": "[GoogleRSS] Process Completed."
         }

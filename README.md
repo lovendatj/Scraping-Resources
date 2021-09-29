@@ -2,7 +2,7 @@
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## What is it?
-Scraping Resources is a one-stop-shop for data from individuals taps. Current taps support include: [Reddit](https://www.reddit.com/), [Google RSS Feed](https://news.google.com/rss/search?q=News&hl=en-US&gl=US&ceid=US:en)
+Scraping Resources is a one-stop-shop for data from individuals taps. Current taps support include: [Reddit](https://github.com/lovendatj/Scraping-Resources/blob/main/Taps/RedditScraping/README.md) and [Google RSS Feed](https://github.com/lovendatj/Scraping-Resources/blob/main/Taps/GoogleRSS/README.md).Refer to the previous links for more detailed utilization of each class.
 
 Install the dependencies using the following command:
 ```bash
