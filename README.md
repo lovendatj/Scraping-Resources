@@ -9,7 +9,7 @@ Install the dependencies using the following command:
 pip install -r requirements.txt 
 ```
 ## Quick Start
-To run the project, use the following command:
+Clone the repository and use the following command to run the project,:
 ```bash
 python3 test.py
 ```
