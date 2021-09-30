@@ -16,6 +16,7 @@ opath = '../Taps/RedditScraping/output'
 sub = ['WallStreetbets']
 # The queue parameter takes options 'submissions' or comments'
 queue = 'comments'
+
 with RedditData(sub=sub, queue=queue, out_path=opath) as reddit:
     results = reddit.data_dump()
     reddit.file_out(results)

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import requests
 import urllib.parse as urlf
 import xml.etree.cElementTree as ET
@@ -10,6 +12,9 @@ from typing import Dict, List
 
 class GoogleRSS:
 
+    class DeepSearch:
+        pass
+
     def __init__(self, *args, **kwargs) -> None:
         self.verbose = bool(
             kwargs['verbose']) if 'verbose' in kwargs.keys() and kwargs['verbose'] is not None else False
@@ -17,7 +22,7 @@ class GoogleRSS:
             kwargs['out_path']) if 'out_path' in kwargs.keys() and kwargs['out_path'] is not None else None
         self.default_link = 'https://news.google.com/rss/search?'
 
-    def __enter__(self, *args, **kwargs):
+    def __enter__(self, *args, **kwargs) -> GoogleRSS:
         self.process = self._type()
         self.logger = LogEvent(self.process, verbose=self.verbose)
         self.logger.log_info(
@@ -35,6 +40,8 @@ class GoogleRSS:
         return self
 
     def __exit__(self, type, value, traceback):
+        print(
+            f'Completed {self.process}. Total Time: {self.logger.delta_timestrf()}')
         if self.file_handler is not None:
             fname = f"logs/{self.file_handler.generate_file_name()}.json"
             self.logger.log_info(f'[FILE] Logs written to {fname}.')
@@ -64,9 +71,15 @@ class GoogleRSS:
                 self.logger.log_info(
                     f'[Term] {term}: [Request]: {url_builder}')
 
-                return_data[term] = self._parse_xml(
+                results = self._parse_xml(
                     requests.get(url_builder).text)
-
+                return_data[term] = {
+                    'info': {
+                        'timedelta': self.logger.delta_timestrf(),
+                        'total-obj': len(results)
+                    },
+                    'data': results
+                }
                 self.logger.log_info(
                     f'[Term] {term}: Completed request.')
                 # Avoid Spamming, will get blocked.
@@ -104,7 +117,7 @@ class GoogleRSS:
 
         fname = f"data/{output['file-name']}.json"
         self.logger.log_info(
-            f"[FILE] Writing to {self.file_handler._path()}/{fname} file..")
+            f"[FILE] Writing to {self.file_handler._path()}/{fname} file.")
         status, message = self.file_handler.write_file(
             file_name=fname,
             data=output,

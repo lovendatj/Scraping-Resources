@@ -1,5 +1,6 @@
+from __future__ import annotations
+
 import requests as req
-import time
 
 from Resources.FileHandler import FileHandler
 from Resources.LogEvent import LogEvent
@@ -40,7 +41,7 @@ class RedditData:
         self.default_endpoint = 'https://www.reddit.com/r'
         self.process = self._type()
 
-    def __enter__(self, *args, **kwargs):
+    def __enter__(self, *args, **kwargs) -> RedditData:
         self.logger = LogEvent(self.process, verbose=self.verbose)
 
         # Operations Handling (e.g., Comments vs Submissions Scraping)
@@ -63,6 +64,8 @@ class RedditData:
         return self
 
     def __exit__(self, type, value, traceback):
+        print(
+            f'Completed {self.process}. Total Time: {self.logger.delta_timestrf()}')
         if self.file_handler is not None:
             fname = f"logs/{self.queue}-{self.file_handler.generate_file_name()}.json"
             self.logger.log_info(f'[FILE] Logs written to {fname}.')
@@ -85,7 +88,14 @@ class RedditData:
     def _get_post(self):
         return_data = {}
         for sub in self.sub:
-            return_data[sub] = self._post_body_builder(sub=sub)
+            results = self._post_body_builder(sub=sub)
+            return_data[sub] = {
+                'info': {
+                    'timedelta': self.logger.delta_timestrf(),
+                    'total-obj': len(results)
+                },
+                'data': results
+            }
         return return_data
     # Return list of dictionary with post data for passed subreddit
 
@@ -123,7 +133,14 @@ class RedditData:
     def _get_comments(self):
         return_data = {}
         for sub in self.sub:
-            return_data[sub] = self._comment_body_builder(sub=sub)
+            results = self._comment_body_builder(sub=sub)
+            return_data[sub] = {
+                'info': {
+                    'elapsed': self.logger.delta_timestrf(),
+                    'total-obj': len(results)
+                },
+                'data': results
+            }
         return return_data
 
     # Return list of dictionary with comment data for passed subreddit

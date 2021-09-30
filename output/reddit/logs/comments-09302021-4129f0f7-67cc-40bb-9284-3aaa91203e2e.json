@@ -1,0 +1,316 @@
+{
+    "process": "RedditData",
+    "date": "09/30/2021-11:52:59",
+    "logs": [
+        {
+            "timestamp": "0:00:00.000005",
+            "type": "LOG",
+            "message": "[RedditData] Process started."
+        },
+        {
+            "timestamp": "0:00:00.001139",
+            "type": "LOG",
+            "message": "[RedditData] Output path: '../output/reddit'"
+        },
+        {
+            "timestamp": "0:00:00.001176",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=&sort=desc"
+        },
+        {
+            "timestamp": "0:00:00.237252",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.237269",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev38vw&sort=desc"
+        },
+        {
+            "timestamp": "0:00:00.415668",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.415686",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev359o&sort=desc"
+        },
+        {
+            "timestamp": "0:00:00.596908",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.596928",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev32gd&sort=desc"
+        },
+        {
+            "timestamp": "0:00:00.800346",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.800363",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2zw0&sort=desc"
+        },
+        {
+            "timestamp": "0:00:00.965505",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:00.965523",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2wxp&sort=desc"
+        },
+        {
+            "timestamp": "0:00:01.151413",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:01.151431",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2tpd&sort=desc"
+        },
+        {
+            "timestamp": "0:00:01.328341",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:01.328359",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2qfm&sort=desc"
+        },
+        {
+            "timestamp": "0:00:01.534885",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:01.534905",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2mqn&sort=desc"
+        },
+        {
+            "timestamp": "0:00:01.751440",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:01.751458",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2k1q&sort=desc"
+        },
+        {
+            "timestamp": "0:00:01.930505",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:01.930523",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2hha&sort=desc"
+        },
+        {
+            "timestamp": "0:00:02.133103",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:02.133121",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2dpa&sort=desc"
+        },
+        {
+            "timestamp": "0:00:02.302719",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:02.302738",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev2ag8&sort=desc"
+        },
+        {
+            "timestamp": "0:00:02.480271",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:02.480289",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev273s&sort=desc"
+        },
+        {
+            "timestamp": "0:00:02.647189",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:02.647207",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev24m1&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.073017",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.073035",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev22mi&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.256705",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.256724",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev209y&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.467270",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.467288",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1x3e&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.650462",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.650479",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1uh3&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.826633",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.826651",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1sb5&sort=desc"
+        },
+        {
+            "timestamp": "0:00:03.997599",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:03.997617",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1pwh&sort=desc"
+        },
+        {
+            "timestamp": "0:00:04.217462",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:04.217480",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1o7g&sort=desc"
+        },
+        {
+            "timestamp": "0:00:04.402895",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:04.402914",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1l7w&sort=desc"
+        },
+        {
+            "timestamp": "0:00:04.565832",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:04.565851",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1ile&sort=desc"
+        },
+        {
+            "timestamp": "0:00:04.756945",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:04.756963",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1gdn&sort=desc"
+        },
+        {
+            "timestamp": "0:00:04.945366",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:04.945384",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1cv5&sort=desc"
+        },
+        {
+            "timestamp": "0:00:05.163965",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:05.163982",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev1a3x&sort=desc"
+        },
+        {
+            "timestamp": "0:00:05.372135",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:05.372152",
+            "type": "LOG",
+            "message": "[WallStreetbets] Starting request: [Request]: https://www.reddit.com/r/WallStreetbets/comments/.json?size=100&after=t1_hev173v&sort=desc"
+        },
+        {
+            "timestamp": "0:00:06.564227",
+            "type": "LOG",
+            "message": "[WallStreetbets] Comment requests complete."
+        },
+        {
+            "timestamp": "0:00:06.564435",
+            "type": "LOG",
+            "message": "[FILE] Writing to ../output/reddit/data/comments-09302021-99a0d57f-cced-47f1-88b9-5977e12cf045.json file.."
+        },
+        {
+            "timestamp": "0:00:06.823207",
+            "type": "LOG",
+            "message": "[FILE] Data written to data/comments-09302021-99a0d57f-cced-47f1-88b9-5977e12cf045.json."
+        },
+        {
+            "timestamp": "0:00:06.823664",
+            "type": "LOG",
+            "message": "[FILE] Logs written to logs/comments-09302021-4129f0f7-67cc-40bb-9284-3aaa91203e2e.json."
+        },
+        {
+            "timestamp": "0:00:06.823684",
+            "type": "LOG",
+            "message": "[RedditData] Process Completed."
+        }
+    ]
+}

@@ -51,6 +51,14 @@ class LogEvent():
             "logs": self.logs
         }
 
+    def delta_timestrf(self) -> str:
+        seconds = self._delta_time().total_seconds()
+        hours = int(seconds // 3600 % 24)
+        minutes = int(seconds % 3600 // 60)
+        second = int(seconds % 3600 % 60)
+        msecond = f'{(float(seconds % 3600 % 60) - second):.3f}'
+        return f'{hours:02}:{minutes:02}:{second:02}:{msecond[2:]}'
+
     def _delta_time(self) -> float:
         end_time = time.perf_counter()
         return timedelta(seconds=(end_time - self.start_time))

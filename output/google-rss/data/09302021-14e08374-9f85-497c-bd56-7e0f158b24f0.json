@@ -1,0 +1,1374 @@
+{
+    "process": "GoogleRSS",
+    "file-name": "09302021-14e08374-9f85-497c-bd56-7e0f158b24f0",
+    "date": "09/30/2021-11:52:52",
+    "data": {
+        "Apples new phone": {
+            "info": {
+                "timedelta": "00:00:00:701",
+                "total-obj": 100
+            },
+            "data": [
+                {
+                    "source": "MacRumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/2021/09/29/iphone-13-touch-screen-issues-ios-15/",
+                    "pub-date": "Wed, 29 Sep 2021 11:00:15 GMT",
+                    "title": "Some iPhone 13 Users Reporting Intermittent Touch Issues, Older Models Also Affected After Updating to... - MacRumors"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2021/09/17/iphone-13-pre-order-process-broken-for-many-apple-card-apple-pay-and-iup-shoppers/",
+                    "pub-date": "Fri, 17 Sep 2021 07:00:00 GMT",
+                    "title": "iPhone 13 pre-order process broken for many Apple Card, Apple Pay, and iUP shoppers - 9to5Mac"
+                },
+                {
+                    "source": "MacRumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/2021/09/06/drake-certified-lover-boy-apple-music-record/",
+                    "pub-date": "Mon, 06 Sep 2021 07:00:00 GMT",
+                    "title": "Drake Album 'Certified Lover Boy' Breaks Apple Music's One-Day Streaming Record - MacRumors"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2021/09/05/drake-breaks-kanyes-donda-one-day-streaming-record-on-apple-music/",
+                    "pub-date": "Sun, 05 Sep 2021 07:00:00 GMT",
+                    "title": "Drake breaks Kanye\u2019s \u2018Donda\u2019 one-day streaming record on Apple Music - 9to5Mac"
+                },
+                {
+                    "source": "9to5Google",
+                    "source-url": "https://9to5google.com",
+                    "url": "https://9to5google.com/2021/09/28/youtube-music-wear-os-2/",
+                    "pub-date": "Wed, 29 Sep 2021 04:06:00 GMT",
+                    "title": "YouTube Music now on Wear OS 2, starting with latest TicWatch & Fossil watches [U] - 9to5Google"
+                },
+                {
+                    "source": "Dignited",
+                    "source-url": "https://www.dignited.com",
+                    "url": "https://www.dignited.com/83939/iphone-stocks-app/",
+                    "pub-date": "Tue, 31 Aug 2021 07:00:00 GMT",
+                    "title": "iPhone Stocks App: What Can You Do With It? - Dignited"
+                },
+                {
+                    "source": "Prairie Post",
+                    "source-url": "https://www.prairiepost.com",
+                    "url": "https://www.prairiepost.com/two-new-apps-launched-to-support-proof-of-covid-19-vaccination/article_87dca244-2146-11ec-94a8-c30292b2a0ab.html",
+                    "pub-date": "Wed, 29 Sep 2021 16:58:00 GMT",
+                    "title": "Two new apps launched to support proof of Covid-19 vaccination - Prairie Post"
+                },
+                {
+                    "source": "Ars Technica",
+                    "source-url": "https://arstechnica.com",
+                    "url": "https://arstechnica.com/gadgets/2021/08/bose-quietcomfort-45-announced-price-release-date-features/",
+                    "pub-date": "Tue, 31 Aug 2021 07:00:00 GMT",
+                    "title": "Bose launches its latest set of wireless noise-canceling headphones - Ars Technica"
+                },
+                {
+                    "source": "Business 2 Community",
+                    "source-url": "https://www.business2community.com",
+                    "url": "https://www.business2community.com/email-marketing/10-product-announcement-email-examples-and-what-you-can-learn-from-them-02433305",
+                    "pub-date": "Sun, 26 Sep 2021 13:07:30 GMT",
+                    "title": "10 Product Announcement Email Examples (and What You Can Learn from Them) - Business 2 Community"
+                },
+                {
+                    "source": "CNBC",
+                    "source-url": "https://www.cnbc.com",
+                    "url": "https://www.cnbc.com/2020/10/19/iphone-12-pre-orders-sales-exceed-iphone-11-top-analyst-says.html",
+                    "pub-date": "Mon, 19 Oct 2020 07:00:00 GMT",
+                    "title": "Apple's first-day preorders for iPhone 12 surpassed the iPhone 11, top analyst says - CNBC"
+                },
+                {
+                    "source": "The New York Times",
+                    "source-url": "https://www.nytimes.com",
+                    "url": "https://www.nytimes.com/2021/01/08/technology/parler-apple-google.html",
+                    "pub-date": "Fri, 08 Jan 2021 08:00:00 GMT",
+                    "title": "Parler Pitched Itself as Twitter Without Rules. Not Anymore, Apple and Google Said. - The New York Times"
+                },
+                {
+                    "source": "NIGERIAN TRIBUNE",
+                    "source-url": "https://tribuneonlineng.com",
+                    "url": "https://tribuneonlineng.com/be-enterprising-mubi-poly-charges-matriculants/",
+                    "pub-date": "Thu, 30 Sep 2021 04:48:47 GMT",
+                    "title": "Be enterprising, Mubi Poly charges matriculants - NIGERIAN TRIBUNE"
+                },
+                {
+                    "source": "Forbes",
+                    "source-url": "https://www.forbes.com",
+                    "url": "https://www.forbes.com/sites/gordonkelly/2021/04/21/apple-iphone-12-mini-new-color-upgrade-iphone-pro-max/",
+                    "pub-date": "Wed, 21 Apr 2021 07:00:00 GMT",
+                    "title": "Apple Announces \u2018Stunning\u2019 New Purple iPhone 12 Release - Forbes"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2020/09/29/iphone-12-production-at-full-tilt/",
+                    "pub-date": "Tue, 29 Sep 2020 07:00:00 GMT",
+                    "title": "iPhone 12 production at full-tilt: 24H operation, mandatory overtime, no holidays - 9to5Mac"
+                },
+                {
+                    "source": "ZDNet",
+                    "source-url": "https://www.zdnet.com",
+                    "url": "https://www.zdnet.com/article/apple-testing-the-last-ios-update-some-iphones-and-ipads-will-get/",
+                    "pub-date": "Mon, 07 Jun 2021 07:00:00 GMT",
+                    "title": "Apple testing the last iOS update some iPhones and iPads will get - ZDNet"
+                },
+                {
+                    "source": "Input",
+                    "source-url": "https://www.inputmag.com",
+                    "url": "https://www.inputmag.com/culture/exclusive-email-from-apple-tells-parler-it-has-24-hours-to-clean-house-or-be-removed",
+                    "pub-date": "Fri, 08 Jan 2021 08:00:00 GMT",
+                    "title": "Apple tells Parler it has 24 hours to clean house or be removed - Input"
+                },
+                {
+                    "source": "Travel + Leisure",
+                    "source-url": "https://www.travelandleisure.com",
+                    "url": "https://www.travelandleisure.com/travel-news/reviews-org-will-pay-you-2400-to-avoid-screens-for-24-hours",
+                    "pub-date": "Tue, 23 Mar 2021 07:00:00 GMT",
+                    "title": "This Company Will Pay You $2400 to Avoid All Screens for 24 Hours - Travel + Leisure"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2018/07/12/how-to-set-24-hour-time-on-iphone-ipad-apple-watch-mac/",
+                    "pub-date": "Thu, 12 Jul 2018 07:00:00 GMT",
+                    "title": "How to set 24-hour time on iPhone, iPad, Apple Watch & Mac - 9to5Mac"
+                },
+                {
+                    "source": "Forbes",
+                    "source-url": "https://www.forbes.com",
+                    "url": "https://www.forbes.com/sites/gordonkelly/2021/04/28/apple-ios-145-release-should-you-update-free-iphone-upgrade/",
+                    "pub-date": "Wed, 28 Apr 2021 07:00:00 GMT",
+                    "title": "Apple iOS 14.5 Release: Should You Upgrade? - Forbes"
+                },
+                {
+                    "source": "Mint",
+                    "source-url": "https://www.livemint.com",
+                    "url": "https://www.livemint.com/technology/tech-news/apple-iphone-12-mini-price-here-s-what-to-expect-from-the-compact-smartphone-11601290986355.html",
+                    "pub-date": "Mon, 28 Sep 2020 07:00:00 GMT",
+                    "title": "Apple iPhone 12 Mini price: Here\u2019s what to expect from the compact smartphone - Mint"
+                },
+                {
+                    "source": "PiunikaWeb",
+                    "source-url": "https://piunikaweb.com",
+                    "url": "https://piunikaweb.com/2021/06/23/iphone-users-still-facing-the-issue-with-incorrect-usage-under-screen-time/",
+                    "pub-date": "Wed, 23 Jun 2021 07:00:00 GMT",
+                    "title": "iPhone users still facing the issue with incorrect usage under Screen Time - PiunikaWeb"
+                },
+                {
+                    "source": "MacRumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/2021/07/21/airpods-pro-beta-firmware-now-available/",
+                    "pub-date": "Wed, 21 Jul 2021 07:00:00 GMT",
+                    "title": "AirPods Pro Beta Firmware Now Available - MacRumors"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2019/12/24/iphone-camera-supplier/",
+                    "pub-date": "Tue, 24 Dec 2019 08:00:00 GMT",
+                    "title": "iPhone camera supplier Sony says even 24 hours a day not enough to meet demand - 9to5Mac"
+                },
+                {
+                    "source": "The Guardian",
+                    "source-url": "https://www.theguardian.com",
+                    "url": "https://www.theguardian.com/technology/2021/mar/30/apple-to-let-repairers-in-australia-and-new-zealand-sign-up-to-spare-parts-program",
+                    "pub-date": "Mon, 29 Mar 2021 07:00:00 GMT",
+                    "title": "Apple to let repairers in Australia and New Zealand sign up to spare parts program - The Guardian"
+                },
+                {
+                    "source": "AppleInsider",
+                    "source-url": "https://appleinsider.com",
+                    "url": "https://appleinsider.com/articles/21/08/31/kanye-wests-donda-sets-apple-music-record-with-60m-streams-in-first-day",
+                    "pub-date": "Tue, 31 Aug 2021 07:00:00 GMT",
+                    "title": "Kanye West's 'Donda' sets Apple Music record with 60M streams in first day - AppleInsider"
+                },
+                {
+                    "source": "PCMag",
+                    "source-url": "https://www.pcmag.com",
+                    "url": "https://www.pcmag.com/reviews/samsung-galaxy-watch4",
+                    "pub-date": "Fri, 20 Aug 2021 07:00:00 GMT",
+                    "title": "Samsung Galaxy Watch4 Review - PCMag"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2021/03/15/apple-maps-live-busy-data-ios/",
+                    "pub-date": "Mon, 15 Mar 2021 07:00:00 GMT",
+                    "title": "Apple Maps could soon be able to tell you how busy a business is based on anonymous location data - 9to5Mac"
+                },
+                {
+                    "source": "MacRumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/2020/10/29/iphone-12-pacemakers-no-greater-risk/",
+                    "pub-date": "Thu, 29 Oct 2020 07:00:00 GMT",
+                    "title": "iPhone 12 Models Don't Pose Greater Risk of Magnetic Interference to Pacemakers and Medical Devices - MacRumors"
+                },
+                {
+                    "source": "MUO - MakeUseOf",
+                    "source-url": "https://www.makeuseof.com",
+                    "url": "https://www.makeuseof.com/how-to-activate-imessage/",
+                    "pub-date": "Sun, 11 Jul 2021 07:00:00 GMT",
+                    "title": "How to Activate iMessage - MUO - MakeUseOf"
+                },
+                {
+                    "source": "T3",
+                    "source-url": "https://www.t3.com",
+                    "url": "https://www.t3.com/news/apple-watch-7-battery-life-patent",
+                    "pub-date": "Tue, 08 Dec 2020 08:00:00 GMT",
+                    "title": "Watch out, Fitbit: Apple Watch 7 in line for a SEVEN-DAY battery life - T3"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-9871027/WhatsApp-says-Apples-plan-iPhones-scanned-images-child-abuse-privacy-setback.html",
+                    "pub-date": "Sat, 07 Aug 2021 07:00:00 GMT",
+                    "title": "WhatsApp says Apple's plan see iPhones scanned for images of child abuse as privacy setback - Daily Mail"
+                },
+                {
+                    "source": "Mirror Online",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/tech/buy-purple-iphone-12-12-24034768",
+                    "pub-date": "Tue, 04 May 2021 07:00:00 GMT",
+                    "title": "Where to buy the purple iPhone 12 and 12 mini smartphones in the UK - Mirror Online"
+                },
+                {
+                    "source": "WIRED",
+                    "source-url": "https://www.wired.com",
+                    "url": "https://www.wired.com/review/apple-watch-series-6-apple-watch-se/",
+                    "pub-date": "Fri, 09 Oct 2020 07:00:00 GMT",
+                    "title": "Apple Watch Series 6 and Apple Watch SE Review: Better Features, Worse Battery - WIRED"
+                },
+                {
+                    "source": "The Guardian",
+                    "source-url": "https://www.theguardian.com",
+                    "url": "https://www.theguardian.com/technology/2021/feb/14/facebook-v-apple-the-looming-showdown-over-data-tracking-and-privacy",
+                    "pub-date": "Sat, 13 Feb 2021 08:00:00 GMT",
+                    "title": "Facebook v Apple: the looming showdown over data tracking and privacy - The Guardian"
+                },
+                {
+                    "source": "Hindustan Times",
+                    "source-url": "https://www.hindustantimes.com",
+                    "url": "https://www.hindustantimes.com/world-news/dam-burst-18-inches-of-rain-in-24-hours-how-china-s-iphone-city-was-flooded-101626848689450.html",
+                    "pub-date": "Wed, 21 Jul 2021 07:00:00 GMT",
+                    "title": "Dam burst, 18 inches of rain in 24 hours: How China's 'iPhone city' was flooded - Hindustan Times"
+                },
+                {
+                    "source": "SFist",
+                    "source-url": "https://sfist.com",
+                    "url": "https://sfist.com/2021/06/18/you-can-now-show-proof-of-vaccination-in-california-on-your-phone-with-scannable/",
+                    "pub-date": "Fri, 18 Jun 2021 07:00:00 GMT",
+                    "title": "You Can Now Show a Digital Vaccine Card on Your Phone With California's New Online System - SFist"
+                },
+                {
+                    "source": "TechRadar",
+                    "source-url": "https://www.techradar.com",
+                    "url": "https://www.techradar.com/news/24-hours-with-the-samsung-galaxy-s21-what-weve-learned-on-day-one",
+                    "pub-date": "Sat, 16 Jan 2021 08:00:00 GMT",
+                    "title": "24 hours with the Samsung Galaxy S21: what we\u2019ve learned on day one - TechRadar"
+                },
+                {
+                    "source": "The Guardian",
+                    "source-url": "https://www.theguardian.com",
+                    "url": "https://www.theguardian.com/technology/2021/apr/28/mark-zuckerberg-tim-cook-feud-apple-facebook",
+                    "pub-date": "Thu, 29 Apr 2021 07:00:00 GMT",
+                    "title": "\u2018They\u2019re playing chicken\u2019: inside Mark Zuckerberg and Tim Cook\u2019s feud - The Guardian"
+                },
+                {
+                    "source": "Apple Newsroom",
+                    "source-url": "https://www.apple.com",
+                    "url": "https://www.apple.com/newsroom/2019/09/apple-fifth-avenue-the-cube-is-back/",
+                    "pub-date": "Thu, 19 Sep 2019 07:00:00 GMT",
+                    "title": "Apple Fifth Avenue: The cube is back - Apple Newsroom"
+                },
+                {
+                    "source": "CNBC",
+                    "source-url": "https://www.cnbc.com",
+                    "url": "https://www.cnbc.com/2019/12/19/your-apple-iphone-tracks-where-you-go-heres-how-to-see-what-it-knows.html",
+                    "pub-date": "Thu, 19 Dec 2019 08:00:00 GMT",
+                    "title": "How to stop your iPhone from tracking your location - CNBC"
+                },
+                {
+                    "source": "Business Insider",
+                    "source-url": "https://www.businessinsider.com",
+                    "url": "https://www.businessinsider.com/how-to-change-apple-watch-to-military-time",
+                    "pub-date": "Thu, 14 Nov 2019 08:00:00 GMT",
+                    "title": "How to change an Apple Watch to military time in 4 steps - Business Insider"
+                },
+                {
+                    "source": "Mashable",
+                    "source-url": "https://mashable.com",
+                    "url": "https://mashable.com/article/apple-watch-series-6-hands-on",
+                    "pub-date": "Thu, 17 Sep 2020 07:00:00 GMT",
+                    "title": "5 things I noticed during my 24 hours with the Apple Watch Series 6 - Mashable"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/sciencetech/article-8946123/All-iPhone-12-models-compared-diminutive-Mini-Pro-Max-powerhouse.html",
+                    "pub-date": "Sat, 14 Nov 2020 08:00:00 GMT",
+                    "title": "All the iPhone 12 models compared: From the diminutive Mini to the Pro Max powerhouse - Daily Mail"
+                },
+                {
+                    "source": "TechCrunch",
+                    "source-url": "https://techcrunch.com",
+                    "url": "https://techcrunch.com/2020/11/30/aws-brings-the-mac-mini-to-its-cloud/",
+                    "pub-date": "Tue, 01 Dec 2020 08:00:00 GMT",
+                    "title": "AWS brings the Mac mini to its cloud - TechCrunch"
+                },
+                {
+                    "source": "Tom's Guide",
+                    "source-url": "https://www.tomsguide.com",
+                    "url": "https://www.tomsguide.com/news/apple-watch-series-6-one-month-later-heres-how-it-holds-up",
+                    "pub-date": "Sun, 01 Nov 2020 07:00:00 GMT",
+                    "title": "Apple Watch Series 6 one month later: Here's how it holds up - Tom's Guide"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2021/06/14/beats-studio-buds-now-official-features-price/",
+                    "pub-date": "Mon, 14 Jun 2021 07:00:00 GMT",
+                    "title": "Beats Studio Buds now official: ANC, Transparency mode, and more for $150 - 9to5Mac"
+                },
+                {
+                    "source": "PiunikaWeb",
+                    "source-url": "https://piunikaweb.com",
+                    "url": "https://piunikaweb.com/2021/06/29/apple-watchos-7-4-1-draining-excessive-battery-workaround-available/",
+                    "pub-date": "Tue, 29 Jun 2021 07:00:00 GMT",
+                    "title": "Apple watchOS 7.4.1 draining excessive battery? Workaround available - PiunikaWeb"
+                },
+                {
+                    "source": "WRCB-TV",
+                    "source-url": "https://www.wrcbtv.com",
+                    "url": "https://www.wrcbtv.com/story/43449016/the-secret-behind-free-trial-apps-and-how-to-avoid-a-subscription-charge",
+                    "pub-date": "Thu, 04 Mar 2021 08:00:00 GMT",
+                    "title": "The secret behind 'free trial' apps & how to avoid a subscription charge - WRCB-TV"
+                },
+                {
+                    "source": "iDrop News",
+                    "source-url": "https://www.idropnews.com",
+                    "url": "https://www.idropnews.com/news/apple-is-about-to-open-its-coolest-apple-store-ever/141758/",
+                    "pub-date": "Tue, 25 Aug 2020 07:00:00 GMT",
+                    "title": "Apple Is About to Open Its Coolest Apple Store Ever - iDrop News"
+                },
+                {
+                    "source": "Mirror Online",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/money/shopping-deals/carphone-warehouse-slash-prices-iphone-24004408",
+                    "pub-date": "Thu, 29 Apr 2021 07:00:00 GMT",
+                    "title": "Carphone Warehouse launch Epic Deals sale on iPhone 12 and Samsung Galaxy S21 - Mirror Online"
+                },
+                {
+                    "source": "Gadget Hacks",
+                    "source-url": "https://ios.gadgethacks.com",
+                    "url": "https://ios.gadgethacks.com/how-to/everything-you-need-know-about-find-my-ios-13s-new-app-for-find-my-iphone-find-my-friends-0198393/",
+                    "pub-date": "Thu, 29 Aug 2019 07:00:00 GMT",
+                    "title": "Everything You Need to Know About 'Find My' \u2014 iOS 13's New App for Find My iPhone & Find My Friends - Gadget Hacks"
+                },
+                {
+                    "source": "Beebom",
+                    "source-url": "https://beebom.com",
+                    "url": "https://beebom.com/improve-battery-life-apple-watch-series-6/",
+                    "pub-date": "Wed, 30 Dec 2020 08:00:00 GMT",
+                    "title": "How to Improve Battery Life on Apple Watch Series 6 - Beebom"
+                },
+                {
+                    "source": "CNN",
+                    "source-url": "https://www.cnn.com",
+                    "url": "https://www.cnn.com/2020/11/17/tech/twitter-fleets-spaces/index.html",
+                    "pub-date": "Tue, 17 Nov 2020 08:00:00 GMT",
+                    "title": "Twitter is evolving beyond tweets - CNN"
+                },
+                {
+                    "source": "Healthline",
+                    "source-url": "https://www.healthline.com",
+                    "url": "https://www.healthline.com/health/substance-use/does-vinegar-clean-your-system-in-24-hours",
+                    "pub-date": "Thu, 15 Jul 2021 07:00:00 GMT",
+                    "title": "Does Vinegar Really 'Clean' Your System in 24 Hours? - Healthline"
+                },
+                {
+                    "source": "Speedway Digest",
+                    "source-url": "https://speedwaydigest.com",
+                    "url": "https://speedwaydigest.com/index.php/news/racing-news/64405-how-to-watch-the-2021-le-mans-24-hours-race-this-saturday",
+                    "pub-date": "Thu, 19 Aug 2021 14:12:15 GMT",
+                    "title": "How to Watch the 2021 Le Mans 24 Hours Race This Saturday - Speedway Digest"
+                },
+                {
+                    "source": "PCMag.com",
+                    "source-url": "https://www.pcmag.com",
+                    "url": "https://www.pcmag.com/how-to/how-to-check-your-iphones-battery-health",
+                    "pub-date": "Tue, 22 Jan 2019 08:00:00 GMT",
+                    "title": "How to Check Your iPhone's Battery Health - PCMag.com"
+                },
+                {
+                    "source": "The Mac Observer",
+                    "source-url": "https://www.macobserver.com",
+                    "url": "https://www.macobserver.com/tips/deep-dive/apple-gmt-watch-face/",
+                    "pub-date": "Wed, 21 Oct 2020 07:00:00 GMT",
+                    "title": "watchOS 7: Exploring the Apple GMT Watch Face - The Mac Observer"
+                },
+                {
+                    "source": "Times of India",
+                    "source-url": "https://timesofindia.indiatimes.com",
+                    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-messages-will-auto-delete-your-otp-messages-but-the-service-will-work-on-these-android-phones/articleshow/83982508.cms",
+                    "pub-date": "Wed, 30 Jun 2021 07:00:00 GMT",
+                    "title": "Google Messages will auto delete your OTP messages, but the service will work on these Android phones - Times of India"
+                },
+                {
+                    "source": "TechCrunch",
+                    "source-url": "https://techcrunch.com",
+                    "url": "https://techcrunch.com/2021/02/02/scaleway-launches-mac-mini-cloud-instances/",
+                    "pub-date": "Tue, 02 Feb 2021 08:00:00 GMT",
+                    "title": "Scaleway launches Mac mini cloud instances - TechCrunch"
+                },
+                {
+                    "source": "CNET",
+                    "source-url": "https://www.cnet.com",
+                    "url": "https://www.cnet.com/tech/mobile/airpods-pro-hands-on-24-hours-thoughts-so-far-apple-wireless-earbuds/",
+                    "pub-date": "Fri, 01 Nov 2019 07:00:00 GMT",
+                    "title": "24 hours with AirPods Pro, hands-on: Thoughts so far about Apple's wireless earbuds - CNET"
+                },
+                {
+                    "source": "Spectrum News NY1",
+                    "source-url": "https://www.ny1.com",
+                    "url": "https://www.ny1.com/nyc/all-boroughs/transit/2021/05/03/24-hour-subway-service-to-return-may-17",
+                    "pub-date": "Mon, 03 May 2021 07:00:00 GMT",
+                    "title": "Full subway service returns, capacity restrictions lifted - Spectrum News NY1"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/sciencetech/article-9539021/Apple-add-sensors-monitor-blood-sugar-alcohol-levels-upcoming-Apple-Watch.html",
+                    "pub-date": "Mon, 03 May 2021 07:00:00 GMT",
+                    "title": "Apple may add sensors to monitor blood sugar and alcohol levels in its upcoming Apple Watch - Daily Mail"
+                },
+                {
+                    "source": "Pocket-lint",
+                    "source-url": "https://www.pocket-lint.com",
+                    "url": "https://www.pocket-lint.com/gadgets/reviews/apple/156675-apple-airtag-review",
+                    "pub-date": "Fri, 04 Jun 2021 07:00:00 GMT",
+                    "title": "Apple AirTag review: I once was lost, but now am found - Pocket-lint"
+                },
+                {
+                    "source": "SF Weekly",
+                    "source-url": "https://www.sfweekly.com",
+                    "url": "https://www.sfweekly.com/sponsored/mspy-reviews/",
+                    "pub-date": "Tue, 05 Jan 2021 08:00:00 GMT",
+                    "title": "mSpy Reviews: Is mSpy A Legit Or Scam Spy Phone App - SF Weekly"
+                },
+                {
+                    "source": "The Independent",
+                    "source-url": "https://www.independent.co.uk",
+                    "url": "https://www.independent.co.uk/arts-entertainment/music/news/kanye-west-donda-apple-music-b1911534.html",
+                    "pub-date": "Tue, 31 Aug 2021 07:00:00 GMT",
+                    "title": "Kanye West\u2019s Donda amasses over 60 million streams on Apple Music on the first day - The Independent"
+                },
+                {
+                    "source": "Gadget Hacks",
+                    "source-url": "https://ios.gadgethacks.com",
+                    "url": "https://ios.gadgethacks.com/how-to/track-your-lost-iphone-ipad-mac-even-when-its-offline-as-long-as-feature-is-enabled-0204719/",
+                    "pub-date": "Fri, 30 Aug 2019 07:00:00 GMT",
+                    "title": "Track Your Lost iPhone, iPad, or Mac Even When Its Offline \u2014 As Long as This Feature Is Enabled - Gadget Hacks"
+                },
+                {
+                    "source": "Laptop Mag",
+                    "source-url": "https://www.laptopmag.com",
+                    "url": "https://www.laptopmag.com/how-to/how-to-buy-revain-the-crypto-that-surged-243-in-24-hours",
+                    "pub-date": "Wed, 19 May 2021 07:00:00 GMT",
+                    "title": "How to buy Revain \u2014 the crypto that surged 243% in 24 hours - Laptop Mag"
+                },
+                {
+                    "source": "WIRED",
+                    "source-url": "https://www.wired.com",
+                    "url": "https://www.wired.com/gallery/best-blood-pressure-monitors/",
+                    "pub-date": "Thu, 24 Dec 2020 08:00:00 GMT",
+                    "title": "5 Blood Pressure Monitors Reviewed (2020): Withings, Qardio, iHealth, Omron - WIRED"
+                },
+                {
+                    "source": "Business Insider",
+                    "source-url": "https://www.businessinsider.com",
+                    "url": "https://www.businessinsider.com/how-to-save-battery-on-iphone",
+                    "pub-date": "Fri, 12 Apr 2019 07:00:00 GMT",
+                    "title": "How to save battery life on your iPhone: 5 methods to use - Business Insider"
+                },
+                {
+                    "source": "Times of India",
+                    "source-url": "https://timesofindia.indiatimes.com",
+                    "url": "https://timesofindia.indiatimes.com/gadgets-news/vodafone-idea-users-this-kyc-sms-can-be-dangerous/articleshow/84790812.cms",
+                    "pub-date": "Tue, 27 Jul 2021 07:00:00 GMT",
+                    "title": "Vodafone Idea users, this KYC SMS can be dangerous - Times of India"
+                },
+                {
+                    "source": "Business Insider",
+                    "source-url": "https://www.businessinsider.com",
+                    "url": "https://www.businessinsider.com/apple-ipad-pro-returned-24-hours-later-2018-11",
+                    "pub-date": "Thu, 08 Nov 2018 08:00:00 GMT",
+                    "title": "Why I returned the new iPad Pro less than 24 hours later - Business Insider"
+                },
+                {
+                    "source": "Guiding Tech",
+                    "source-url": "https://www.guidingtech.com",
+                    "url": "https://www.guidingtech.com/stop-ios-wifi-turning-on-automatically/",
+                    "pub-date": "Thu, 18 Jun 2020 07:00:00 GMT",
+                    "title": "How to Stop iOS Wi-Fi From Turning on Automatically - Guiding Tech"
+                },
+                {
+                    "source": "Mirror Online",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/tech/iphone-users-showing-new-home-22716037",
+                    "pub-date": "Mon, 21 Sep 2020 07:00:00 GMT",
+                    "title": "iPhone users are showing off their new home screen layouts - here's how to change yours - Mirror Online"
+                },
+                {
+                    "source": "MacRumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/how-to/how-to-use-screen-time-in-ios-12/",
+                    "pub-date": "Wed, 18 Jul 2018 19:56:47 GMT",
+                    "title": "How to Use Screen Time in iOS 12 - MacRumors"
+                },
+                {
+                    "source": "The Island Now",
+                    "source-url": "https://theislandnow.com",
+                    "url": "https://theislandnow.com/blog-112/how-to-pass-drug-tests-for-weed/",
+                    "pub-date": "Sat, 22 May 2021 07:00:00 GMT",
+                    "title": "How To Pass a Drug Test For Weed? 7 Natural Methods - The Island Now"
+                },
+                {
+                    "source": "Alphr",
+                    "source-url": "https://www.alphr.com",
+                    "url": "https://www.alphr.com/google-drive-not-downloading/",
+                    "pub-date": "Thu, 18 Mar 2021 07:00:00 GMT",
+                    "title": "Best Fix: Google Drive Not Downloading - Alphr"
+                },
+                {
+                    "source": "Stark Insider",
+                    "source-url": "https://www.starkinsider.com",
+                    "url": "https://www.starkinsider.com/2020/11/upgrading-my-macbook-pro-to-big-sur-didnt-go-well-or-really-at-all-installation-failed.html",
+                    "pub-date": "Thu, 12 Nov 2020 08:00:00 GMT",
+                    "title": "Upgrading my MacBook Pro to Big Sur didn\u2019t go so well, or really at all (\u201cInstallation Failed\u201d) - Stark Insider"
+                },
+                {
+                    "source": "TidBITS",
+                    "source-url": "https://tidbits.com",
+                    "url": "https://tidbits.com/2020/10/08/four-reasons-why-we-wont-see-third-party-apple-watch-faces-and-what-apple-is-doing-instead/",
+                    "pub-date": "Thu, 08 Oct 2020 07:00:00 GMT",
+                    "title": "Four Reasons Why We Won't See Third-Party Apple Watch Faces (And What Apple Is Doing Instead) - TidBITS"
+                },
+                {
+                    "source": "Gadgets 360",
+                    "source-url": "https://gadgets.ndtv.com",
+                    "url": "https://gadgets.ndtv.com/apps/news/google-meet-free-unlimited-24-hour-video-calls-gmail-users-extended-june-2021-2403175",
+                    "pub-date": "Wed, 31 Mar 2021 07:00:00 GMT",
+                    "title": "Google Meet Extends \u2018Unlimited\u2019 Video Calling Support for Free Gmail Accounts Until June - Gadgets 360"
+                },
+                {
+                    "source": "The Verge",
+                    "source-url": "https://www.theverge.com",
+                    "url": "https://www.theverge.com/2021/1/8/22220874/twitch-pogchamp-face-change-ryan-gootecks-gutierrez",
+                    "pub-date": "Fri, 08 Jan 2021 08:00:00 GMT",
+                    "title": "Twitch will change the face of PogChamp every 24 hours - The Verge"
+                },
+                {
+                    "source": "WonderHowTo",
+                    "source-url": "https://ios.gadgethacks.com",
+                    "url": "https://ios.gadgethacks.com/how-to/setting-makes-easier-locate-your-iphone-when-its-dead-offline-0157562/",
+                    "pub-date": "Mon, 25 Feb 2019 08:00:00 GMT",
+                    "title": "This Setting Makes It Easier to Locate Your iPhone When It's Dead or Offline - WonderHowTo"
+                },
+                {
+                    "source": "CBS Minnesota",
+                    "source-url": "https://minnesota.cbslocal.com",
+                    "url": "https://minnesota.cbslocal.com/2021/08/29/2-men-killed-in-separate-shootings-in-st-paul-overnight/",
+                    "pub-date": "Sun, 29 Aug 2021 07:00:00 GMT",
+                    "title": "3 Killed In Separate St. Paul Shootings Within 24 Hours - CBS Minnesota"
+                },
+                {
+                    "source": "Rap-Up.com",
+                    "source-url": "https://www.rap-up.com",
+                    "url": "https://www.rap-up.com/2021/08/05/kanye-west-finishes-donda-live/",
+                    "pub-date": "Thu, 05 Aug 2021 07:00:00 GMT",
+                    "title": "Kanye West Is Finishing \u2018DONDA\u2019 on His Livestream - Rap-Up.com"
+                },
+                {
+                    "source": "Business Insider",
+                    "source-url": "https://www.businessinsider.com",
+                    "url": "https://www.businessinsider.com/ethereum-price-explodes-secure-new-all-time-high-analysts-double-14702021-1",
+                    "pub-date": "Mon, 25 Jan 2021 08:00:00 GMT",
+                    "title": "Ethereum explodes 21% in just one day to secure a new all-time high past $1470 - and analysts expect it to double in the next two weeks - Business Insider"
+                },
+                {
+                    "source": "The Philadelphia Inquirer",
+                    "source-url": "https://www.inquirer.com",
+                    "url": "https://www.inquirer.com/philly-tips/covid-vaccine-alcohol-20210405.html",
+                    "pub-date": "Mon, 05 Apr 2021 07:00:00 GMT",
+                    "title": "You can drink, but don\u2019t go on a bender after your vaccine. Here\u2019s why. - The Philadelphia Inquirer"
+                },
+                {
+                    "source": "Mac Rumors",
+                    "source-url": "https://www.macrumors.com",
+                    "url": "https://www.macrumors.com/2014/06/03/ios-8-send-last-location/",
+                    "pub-date": "Tue, 03 Jun 2014 07:00:00 GMT",
+                    "title": "New 'Send Last Location to Apple' Feature Added to Find My iPhone in iOS 8 - Mac Rumors"
+                },
+                {
+                    "source": "Financial Times",
+                    "source-url": "https://www.ft.com",
+                    "url": "https://www.ft.com/content/cf075e73-a7b4-4121-a422-30b9e8cc7f3b",
+                    "pub-date": "Fri, 16 Apr 2021 07:00:00 GMT",
+                    "title": "Coronavirus: US passes vaccine milestone of 200m doses administered \u2014 as it happened - Financial Times"
+                },
+                {
+                    "source": "MUO - MakeUseOf",
+                    "source-url": "https://www.makeuseof.com",
+                    "url": "https://www.makeuseof.com/things-can-get-you-banned-snapchat/",
+                    "pub-date": "Fri, 25 Jun 2021 07:00:00 GMT",
+                    "title": "5 Things That Can Get You Banned on Snapchat - MUO - MakeUseOf"
+                },
+                {
+                    "source": "Digiday",
+                    "source-url": "https://digiday.com",
+                    "url": "https://digiday.com/marketing/wtf-apples-itp-2-3-update/",
+                    "pub-date": "Fri, 27 Sep 2019 07:00:00 GMT",
+                    "title": "WTF is Apple\u2019s ITP 2.3 update? - Digiday"
+                },
+                {
+                    "source": "CinemaBlend",
+                    "source-url": "https://www.cinemablend.com",
+                    "url": "https://www.cinemablend.com/television/2569155/the-morning-show-season-2-quick-things-we-know-about-the-apple-tv-series",
+                    "pub-date": "Tue, 22 Jun 2021 07:00:00 GMT",
+                    "title": "The Morning Show Season 2: 7 Quick Things We Know About the Apple TV+ Series - CinemaBlend"
+                },
+                {
+                    "source": "The Verge",
+                    "source-url": "https://www.theverge.com",
+                    "url": "https://www.theverge.com/2021/2/25/22301393/telegram-auto-delete-messages-widgets-andoird-ios-update",
+                    "pub-date": "Thu, 25 Feb 2021 08:00:00 GMT",
+                    "title": "Telegram update adds auto-delete option to all messages and more - The Verge"
+                },
+                {
+                    "source": "Computerworld",
+                    "source-url": "https://www.computerworld.com",
+                    "url": "https://www.computerworld.com/article/3514543/how-iphones-can-help-manage-always-on-work-related-stress.html",
+                    "pub-date": "Thu, 16 Jan 2020 08:00:00 GMT",
+                    "title": "How iPhones can help manage 'always-on' work-related stress - Computerworld"
+                },
+                {
+                    "source": "Gadgets 360",
+                    "source-url": "https://gadgets.ndtv.com",
+                    "url": "https://gadgets.ndtv.com/apps/news/instagram-recently-deleted-feature-restore-photos-videos-reels-igtv-stories-users-2362229",
+                    "pub-date": "Wed, 03 Feb 2021 08:00:00 GMT",
+                    "title": "Instagram\u2019s New \u2018Recently Deleted\u2019 Feature Will Let Users Restore Photos, Videos, Reels, IGTV Video... - Gadgets 360"
+                },
+                {
+                    "source": "Los Angeles Times",
+                    "source-url": "https://www.latimes.com",
+                    "url": "https://www.latimes.com/business/story/2021-05-14/gyms-comeback-indoor-exercise-covid-fears-recede",
+                    "pub-date": "Fri, 14 May 2021 07:00:00 GMT",
+                    "title": "Gyms are bouncing back post-COVID. Are exercisers ready? - Los Angeles Times"
+                },
+                {
+                    "source": "The Wall Street Journal",
+                    "source-url": "https://www.wsj.com",
+                    "url": "https://www.wsj.com/articles/facebook-whatsapp-and-twitter-face-new-rules-in-india-11614250424",
+                    "pub-date": "Thu, 25 Feb 2021 08:00:00 GMT",
+                    "title": "Facebook, WhatsApp and Twitter Face New Rules in India - The Wall Street Journal"
+                },
+                {
+                    "source": "Mashable",
+                    "source-url": "https://mashable.com",
+                    "url": "https://mashable.com/article/how-to-change-google-calendar-notifications-reminders",
+                    "pub-date": "Sun, 21 Feb 2021 08:00:00 GMT",
+                    "title": "Change this Google Calendar feature so you're never late for a meeting - Mashable"
+                },
+                {
+                    "source": "Macworld UK",
+                    "source-url": "https://www.macworld.co.uk",
+                    "url": "https://www.macworld.co.uk/how-to/what-do-when-imessage-wont-activate-on-your-iphone-3667167/",
+                    "pub-date": "Wed, 15 Nov 2017 08:00:00 GMT",
+                    "title": "What to do when iMessage won't activate on your iPhone - Macworld UK"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-9864915/Complaints-hostile-work-environment-sexism-land-senior-Apple-exec-paid-leave.html",
+                    "pub-date": "Thu, 05 Aug 2021 07:00:00 GMT",
+                    "title": "Apple manager says she was put on leave for complaining about sexism and a hostile workplace - Daily Mail"
+                },
+                {
+                    "source": "9to5Mac",
+                    "source-url": "https://9to5mac.com",
+                    "url": "https://9to5mac.com/2020/02/11/you-can-now-opt-out-of-receiving-subscription-renewal-emails-from-apple/",
+                    "pub-date": "Tue, 11 Feb 2020 08:00:00 GMT",
+                    "title": "You can now opt-out of receiving subscription renewal emails from Apple - 9to5Mac"
+                },
+                {
+                    "source": "Cleveland Scene",
+                    "source-url": "https://www.clevescene.com",
+                    "url": "https://www.clevescene.com/cleveland/17-detox-drinks-for-drug-test-pass-marijuana-tests-in-202117-detox-drinks-for-a-drug-test-get-weed-out-your-system-fast-2021/Content?oid=36323764",
+                    "pub-date": "Fri, 23 Jul 2021 07:00:00 GMT",
+                    "title": "17 Detox Drinks For Drug Test - Pass Marijuana Tests in 2021 - Cleveland Scene"
+                }
+            ]
+        },
+        "Adventures of Mr. Bean": {
+            "info": {
+                "timedelta": "00:00:01:782",
+                "total-obj": 93
+            },
+            "data": [
+                {
+                    "source": "The Mirror",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/3am/celebrity-news/mr-bean-star-rowan-atkinson-24743350",
+                    "pub-date": "Thu, 12 Aug 2021 07:00:00 GMT",
+                    "title": "Mr Bean star Rowan Atkinson looks totally different with long hair in new show - The Mirror"
+                },
+                {
+                    "source": "Hudson Valley Post",
+                    "source-url": "https://hudsonvalleypost.com",
+                    "url": "https://hudsonvalleypost.com/gas-stations-are-running-out-of-gas-new-york-could-see-shortage/",
+                    "pub-date": "Wed, 30 Jun 2021 07:00:00 GMT",
+                    "title": "Gas Stations Are Running Out of Gas, New York Could See Shortage - Hudson Valley Post"
+                },
+                {
+                    "source": "92moose.fm",
+                    "source-url": "https://92moose.fm",
+                    "url": "https://92moose.fm/new-england-woman-throws-out-1m-winning-scratch-ticket/",
+                    "pub-date": "Thu, 27 May 2021 07:00:00 GMT",
+                    "title": "New England Woman Unknowingly Throws Out $1M Winning Scratcher - 92moose.fm"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/tv/blackadder-cast-now-cracking-america-23557737",
+                    "pub-date": "Thu, 25 Feb 2021 08:00:00 GMT",
+                    "title": "Blackadder cast then and now - cracking America, much younger spouses and tragic death - Daily Star"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-9886617/Double-amputee-war-hero-praised-Prince-Harry-slams-d-head-Joe-Biden.html",
+                    "pub-date": "Thu, 12 Aug 2021 07:00:00 GMT",
+                    "title": "Double amputee war hero who was praised by Prince Harry slams 'd***head' Joe Biden - Daily Mail"
+                },
+                {
+                    "source": "Total Motorcycle News",
+                    "source-url": "https://www.totalmotorcycle.com",
+                    "url": "https://www.totalmotorcycle.com/bmw-berlin-brawl-2021",
+                    "pub-date": "Thu, 15 Jul 2021 07:00:00 GMT",
+                    "title": "BMW Berlin Brawl 2021 \u2022 Total Motorcycle - Total Motorcycle News"
+                },
+                {
+                    "source": "Mirror Online",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/tv/tv-news/netflix-movies-tv-series-easter-23820425",
+                    "pub-date": "Fri, 02 Apr 2021 07:00:00 GMT",
+                    "title": "Netflix movies and TV series for Easter weekend - from Shrek to horror film Run - Mirror Online"
+                },
+                {
+                    "source": "Elko Daily Free Press",
+                    "source-url": "https://elkodaily.com",
+                    "url": "https://elkodaily.com/news/local/readers-choice-2020-the-full-list-of-winners/article_e9b62cf9-f28c-5596-b02e-e210ea298e5c.html",
+                    "pub-date": "Sun, 29 Nov 2020 08:00:00 GMT",
+                    "title": "Readers' Choice 2020: The full list of winners - Elko Daily Free Press"
+                },
+                {
+                    "source": "TheWrap",
+                    "source-url": "https://www.thewrap.com",
+                    "url": "https://www.thewrap.com/ford-v-ferrari-fact-check-did-le-mans-66-really-end-that-way-tie/",
+                    "pub-date": "Sat, 16 May 2020 03:03:43 GMT",
+                    "title": "'Ford v Ferrari' Fact Check: Did Le Mans '66 Really End That Way? - TheWrap"
+                },
+                {
+                    "source": "Bon Appetit",
+                    "source-url": "https://www.bonappetit.com",
+                    "url": "https://www.bonappetit.com/story/24-hours-on-a-cruise-ship",
+                    "pub-date": "Mon, 04 Feb 2019 08:00:00 GMT",
+                    "title": "This Cruise Ship\u2019s Kitchens Never Sleep, So For 24 Hours, Neither Did I - Bon Appetit"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-9069663/Haunting-twist-mystery-death-plunge-hero.html",
+                    "pub-date": "Fri, 18 Dec 2020 08:00:00 GMT",
+                    "title": "Haunting twist in the mystery of the death plunge hero - Daily Mail"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/showbiz/uks-human-ken-doll-reveal-24293890",
+                    "pub-date": "Thu, 10 Jun 2021 07:00:00 GMT",
+                    "title": "UK\u2019s human 'Ken doll' to reveal truth behind \u00a310k-a-year plastic surgery in TV show - Daily Star"
+                },
+                {
+                    "source": "News & Star",
+                    "source-url": "https://www.newsandstar.co.uk",
+                    "url": "https://www.newsandstar.co.uk/news/19246374.full-list-businesses-reopening-cumbria-now-covid-19-rules-eased/",
+                    "pub-date": "Sat, 24 Apr 2021 07:00:00 GMT",
+                    "title": "All the businesses reopening in Cumbria now Covid-19 rules have eased | News and Star - News & Star"
+                },
+                {
+                    "source": "New York Times",
+                    "source-url": "https://www.nytimes.com",
+                    "url": "https://www.nytimes.com/interactive/2017/11/09/travel/what-to-do-36-hours-in-kauai-hawaii.html",
+                    "pub-date": "Thu, 09 Nov 2017 08:00:00 GMT",
+                    "title": "36 Hours in Kauai, Hawaii - New York Times"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/news/latest-news/los-angeles-illustrator-mr-bean-18687852",
+                    "pub-date": "Thu, 16 Oct 2014 07:00:00 GMT",
+                    "title": "Los Angeles illustrator helps MR BEAN steal the scene in classic images - Daily Star"
+                },
+                {
+                    "source": "Port Washington News",
+                    "source-url": "https://portwashington-news.com",
+                    "url": "https://portwashington-news.com/taco-bell-ingredients-whats-really-in-the-beef/",
+                    "pub-date": "Wed, 30 Apr 2014 07:00:00 GMT",
+                    "title": "Taco Bell Ingredients: What's Really In The Beef\u2026 - Port Washington News"
+                },
+                {
+                    "source": "Eater Vegas",
+                    "source-url": "https://vegas.eater.com",
+                    "url": "https://vegas.eater.com/2020/3/17/21183681/las-vegas-henderson-restaurants-open-coronavirus-delivery-take-out",
+                    "pub-date": "Thu, 30 Jul 2020 07:00:00 GMT",
+                    "title": "Las Vegas and Henderson restaurants offering takeout and delivery due to coronavirus - Eater Vegas"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-8709373/Moment-missing-80-year-old-hiker-feared-dead-turns-press-conference.html",
+                    "pub-date": "Tue, 08 Sep 2020 07:00:00 GMT",
+                    "title": "Missing hiker, 80, feared dead, turns up at press conference - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-9005145/Landlords-drinkers-fury-loophole-lets-football-fans-cinema-goers-drink-without-food.html",
+                    "pub-date": "Tue, 01 Dec 2020 08:00:00 GMT",
+                    "title": "Landlords and drinkers' fury at loophole that lets football fans and cinema-goers drink without food - Daily Mail"
+                },
+                {
+                    "source": "Total Motorcycle News",
+                    "source-url": "https://www.totalmotorcycle.com",
+                    "url": "https://www.totalmotorcycle.com/independence-day-canada-day-2020-events-rallies-and-whats-open/",
+                    "pub-date": "Mon, 29 Jun 2020 13:30:10 GMT",
+                    "title": "Independence Day & Canada Day 2020 Events Rallies and What's Open \u2022 Total Motorcycle - Total Motorcycle News"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/real-life/comedian-shares-snap-mince-toast-23569237",
+                    "pub-date": "Fri, 26 Feb 2021 08:00:00 GMT",
+                    "title": "Comedian shares snap of mince on toast dinner and some say it's 'just wrong' - Daily Star"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-1231840/Malcolm-Robertson-Burmese-fishermen-jailed-murder-British-yachtsman.html",
+                    "pub-date": "Mon, 30 Nov 2009 08:00:00 GMT",
+                    "title": "Malcolm Robertson: Burmese fishermen jailed for murder British yachtsman - Daily Mail"
+                },
+                {
+                    "source": "Pinkbike.com",
+                    "source-url": "https://m.pinkbike.com",
+                    "url": "https://m.pinkbike.com/news/race-and-accessibility-in-the-mountain-bike-community.html",
+                    "pub-date": "Fri, 05 Jun 2020 07:00:00 GMT",
+                    "title": "Race & Accessibility in the Mountain Bike Community - Pinkbike.com"
+                },
+                {
+                    "source": "World Screen",
+                    "source-url": "https://worldscreen.com",
+                    "url": "https://worldscreen.com/sitemap-page/",
+                    "pub-date": "Tue, 11 Dec 2018 11:36:06 GMT",
+                    "title": "Sitemap Page - WORLD SCREEN - World Screen"
+                },
+                {
+                    "source": "Total Motorcycle News",
+                    "source-url": "https://www.totalmotorcycle.com",
+                    "url": "https://www.totalmotorcycle.com/reviews/indian-summer-finale-cant-help-falling-in-love",
+                    "pub-date": "Mon, 07 Sep 2020 07:00:00 GMT",
+                    "title": "An Indian Summer Finale: Can't help falling in Love \u2022 Total Motorcycle - Total Motorcycle News"
+                },
+                {
+                    "source": "EDMTunes",
+                    "source-url": "https://www.edmtunes.com",
+                    "url": "https://www.edmtunes.com/2020/06/watch-kolsch-delivers-id-packed-set-from-copanhagens-copenhill/",
+                    "pub-date": "Tue, 09 Jun 2020 07:00:00 GMT",
+                    "title": "[WATCH] K\u00f6lsch Delivers ID Packed Set From Copanhagen\u2019s Copenhill - EDMTunes"
+                },
+                {
+                    "source": "menifee247",
+                    "source-url": "http://www.menifee247.com",
+                    "url": "http://www.menifee247.com/2020/06/menifee-all-other-county-cities-under-6-pm-curfew-monday.html",
+                    "pub-date": "Mon, 01 Jun 2020 07:00:00 GMT",
+                    "title": "Menifee, all other County cities under 6 pm curfew Monday - menifee247"
+                },
+                {
+                    "source": "83degreesmedia",
+                    "source-url": "https://www.83degreesmedia.com",
+                    "url": "https://www.83degreesmedia.com/features/24hours042115.aspx",
+                    "pub-date": "Tue, 21 Apr 2015 07:00:00 GMT",
+                    "title": "Experience 24 Hours on the streets of downtown St. Pete - 83degreesmedia"
+                },
+                {
+                    "source": "The East County Californian",
+                    "source-url": "https://eccalifornian.com",
+                    "url": "https://eccalifornian.com/gulls-soaring-as-they-near-halfway-mark-of-inaugural-ahl-season/",
+                    "pub-date": "Wed, 13 Jan 2016 08:00:00 GMT",
+                    "title": "Gulls soaring as they near halfway mark of inaugural AHL season - The East County Californian"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-7895419/Bake-fans-speculate-Sandi-Toksvigs-Bake-replacement.html",
+                    "pub-date": "Thu, 16 Jan 2020 08:00:00 GMT",
+                    "title": "Bake Off fans speculate over Sandi Toksvig's Bake Off replacement - Daily Mail"
+                },
+                {
+                    "source": "Nintendo Life",
+                    "source-url": "https://www.nintendolife.com",
+                    "url": "https://www.nintendolife.com/news/2019/08",
+                    "pub-date": "Sat, 31 Aug 2019 07:00:00 GMT",
+                    "title": "News - August, 2019 - Nintendo Life"
+                },
+                {
+                    "source": "menifee247",
+                    "source-url": "http://www.menifee247.com",
+                    "url": "http://www.menifee247.com/2020/05/heritage-high-student-found-dead-of-apparent-suicide.html",
+                    "pub-date": "Tue, 05 May 2020 07:00:00 GMT",
+                    "title": "Heritage High student found dead of apparent suicide - menifee247"
+                },
+                {
+                    "source": "The Guardian",
+                    "source-url": "https://www.theguardian.com",
+                    "url": "https://www.theguardian.com/world/2006/jul/21/eu.poland2",
+                    "pub-date": "Thu, 20 Jul 2006 07:00:00 GMT",
+                    "title": "Why would you leave a place like Wroclaw? - The Guardian"
+                },
+                {
+                    "source": "Patheos",
+                    "source-url": "https://www.patheos.com",
+                    "url": "https://www.patheos.com/blogs/thecantankerouscalvinist/2020/08/13/the-critical-threat-of-missions/",
+                    "pub-date": "Thu, 13 Aug 2020 07:00:00 GMT",
+                    "title": "The 'Critical' Threat of Missions | Timon Cline - Patheos"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-6830749/This-video-physically-sick-time-wake-lion-gun-away.html",
+                    "pub-date": "Wed, 20 Mar 2019 07:00:00 GMT",
+                    "title": "PIERS MORGAN: Take 'hunter' Guy Gorney's gun away and see how brave he is - Daily Mail"
+                },
+                {
+                    "source": "Mirror.co.uk",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/tv/tv-news/local-place-local-people-brexit-11666635",
+                    "pub-date": "Sat, 09 Dec 2017 08:00:00 GMT",
+                    "title": "Local place for local people: Brexit result was just like League of Gentleman scene says creator Mark Gatiss - Mirror.co.uk"
+                },
+                {
+                    "source": "GoodTherapy.org",
+                    "source-url": "https://www.goodtherapy.org",
+                    "url": "https://www.goodtherapy.org/blog/ways-to-cope-with-grief-and-loss-after-putting-a-pet-to-sleep",
+                    "pub-date": "Wed, 20 Aug 2014 07:00:00 GMT",
+                    "title": "Ways to Cope with Grief and Loss after Putting a Pet to Sleep - GoodTherapy.org"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/tech/reviews/pikuniku-review-you-ll-smiling-16832316",
+                    "pub-date": "Sat, 09 Feb 2019 08:00:00 GMT",
+                    "title": "Pikuniku Review: You'll be smiling from ear to ear with this Cartoon Network style humour - Daily Star"
+                },
+                {
+                    "source": "DVD Talk",
+                    "source-url": "https://www.dvdtalk.com",
+                    "url": "https://www.dvdtalk.com/archives.html",
+                    "pub-date": "Thu, 14 Sep 2017 13:22:57 GMT",
+                    "title": "Archives - DVD Talk"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/tvshowbiz/article-4393024/Tom-Cruise-jets-Mission-Impossible-6-set.html",
+                    "pub-date": "Sat, 08 Apr 2017 07:00:00 GMT",
+                    "title": "Tom Cruise jets in to Mission Impossible 6 set in Paris - Daily Mail"
+                },
+                {
+                    "source": "Quad City Times",
+                    "source-url": "https://qctimes.com",
+                    "url": "https://qctimes.com/news/local/jack-cullens-notes-q-c-people-doing-what-they-do/collection_cadc6180-05b0-11e7-a683-2f6c631b58d0.html",
+                    "pub-date": "Tue, 31 Mar 2020 19:55:54 GMT",
+                    "title": "Jack Cullen's Notes: Q-C people doing what they do - Quad City Times"
+                },
+                {
+                    "source": "EDMTunes",
+                    "source-url": "https://www.edmtunes.com",
+                    "url": "https://www.edmtunes.com/2018/12/elrow-prank/",
+                    "pub-date": "Fri, 28 Dec 2018 08:00:00 GMT",
+                    "title": "elrow Pranks Fans on Spain\u2019s December \u201cApril Fools\u201d Day - EDMTunes"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/tvshowbiz/article-7839869/Inside-Molly-Mae-Hague-Tommy-Furys-Maldives-holiday-Love-Island-stars-relax-style.html",
+                    "pub-date": "Tue, 31 Dec 2019 08:00:00 GMT",
+                    "title": "Inside Molly-Mae Hague and Tommy Fury's Maldives holiday as the Love Island stars relax in style - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/tvshowbiz/article-6631121/When-Sydney-happening-city-WORLD-Nanny-State-lockout-laws-killed-176-venues.html",
+                    "pub-date": "Sat, 16 Feb 2019 08:00:00 GMT",
+                    "title": "When Sydney was the most happening city in WORLD until nanny state lockout laws killed 176 venues - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-3810944/You-ll-catch-death-Wills-Kate-wraps-green-Hobbs-coat-Maple-Leaf-scarf-just-opts-blazer-arrive-Canada-s-northern-territories.html",
+                    "pub-date": "Wed, 28 Sep 2016 07:00:00 GMT",
+                    "title": "Kate Middleton wraps up with Prince William as they arrive in Canada's Northern territory - Daily Mail"
+                },
+                {
+                    "source": "Port Macquarie News",
+                    "source-url": "https://www.portnews.com.au",
+                    "url": "https://www.portnews.com.au/story/6698213/were-back-in-business-your-free-guide-to-supportlocal/",
+                    "pub-date": "Sat, 16 May 2020 07:00:00 GMT",
+                    "title": "Open for Business: your free directory to Port Macquarie business and how you can support them - Port Macquarie News"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2294392/Dan-Browns-Inferno-Ten-years-The-Da-Vinci-Code-master-symbologist-Robert-Langdon-spine-tingling-new-adventure.html",
+                    "pub-date": "Mon, 18 Mar 2013 07:00:00 GMT",
+                    "title": "Dan Brown's Inferno: Ten years after The Da Vinci Code, master symbologist Robert Langdon is back in a spine-t - Daily Mail"
+                },
+                {
+                    "source": "Mirror Online",
+                    "source-url": "https://www.mirror.co.uk",
+                    "url": "https://www.mirror.co.uk/3am/celebrity-news/still-rabbiting-on-enduring-appeal-11884119",
+                    "pub-date": "Sat, 20 Jan 2018 08:00:00 GMT",
+                    "title": "Still rabbiting on: The enduring appeal of Peter Rabbit - Beatrix Potter's cheekiest creation - Mirror Online"
+                },
+                {
+                    "source": "3ders.org",
+                    "source-url": "https://www.3ders.org",
+                    "url": "https://www.3ders.org/applications.html",
+                    "pub-date": "Mon, 04 Sep 2017 15:35:37 GMT",
+                    "title": "3ders.org - 3D printing applications - 3ders.org"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2933115/The-man-turned-house-feline-fantasy-Builder-creates-utopia-14-cats-complete-ledges-tunnels-soothing-music.html",
+                    "pub-date": "Fri, 30 Jan 2015 08:00:00 GMT",
+                    "title": "The man who turned his house into a feline fantasy: Builder creates utopia for his 14 cats, complete with ledg - Daily Mail"
+                },
+                {
+                    "source": "StrathmoreNow.com",
+                    "source-url": "https://strathmorenow.com",
+                    "url": "https://strathmorenow.com/contact/sitemap",
+                    "pub-date": "Thu, 16 Aug 2018 22:22:52 GMT",
+                    "title": "Sitemap - Strathmore Now - StrathmoreNow.com"
+                },
+                {
+                    "source": "Baltimore Beat",
+                    "source-url": "http://baltimorebeat.com",
+                    "url": "http://baltimorebeat.com/2017/11/15/week-review-frustrating-exciting-maddening-occasionally-heartening-baltimore/",
+                    "pub-date": "Wed, 15 Nov 2017 08:00:00 GMT",
+                    "title": "Baltimore Week in Review - Baltimore Beat"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-4086872/The-fast-life-violent-death-Stud-Badboy-Supercar-loving-father-two-shot-dead-police-firearm-Audi-major-player-drug-dealer-flew-Class-prison-drone-described-adventurous-dating-profile.html",
+                    "pub-date": "Wed, 04 Jan 2017 08:00:00 GMT",
+                    "title": "M62 shooting victim Yassar Yaqub led flashy lifestyle before death - Daily Mail"
+                },
+                {
+                    "source": "IPWatchdog.com",
+                    "source-url": "https://www.ipwatchdog.com",
+                    "url": "https://www.ipwatchdog.com/2011/09/02/kelloggs-toucan-sam-asserted-against-archaeology-initiative/id=18946/",
+                    "pub-date": "Fri, 02 Sep 2011 07:00:00 GMT",
+                    "title": "Kellogg's Toucan Sam Asserted Against Archaeology Initiative - IPWatchdog.com"
+                },
+                {
+                    "source": "CNN International",
+                    "source-url": "https://thecnnfreedomproject.blogs.cnn.com",
+                    "url": "https://thecnnfreedomproject.blogs.cnn.com/2011/09/19/the-human-cost-of-chocolate/",
+                    "pub-date": "Mon, 19 Sep 2011 07:00:00 GMT",
+                    "title": "The human cost of chocolate - CNN International"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2543327/Three-Cups-Tea-author-claims-HAPPY-lies-exposed-admits-Let-lot-people-down.html",
+                    "pub-date": "Tue, 21 Jan 2014 08:00:00 GMT",
+                    "title": "Three Cups of Tea author Greg Mortenson claims he's HAPPY his lies were exposed - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/home/books/article-2522584/Sing-Beatle-chill-vampire-.html",
+                    "pub-date": "Thu, 12 Dec 2013 08:00:00 GMT",
+                    "title": "Sing with a Beatle, chill with a vampire... - Daily Mail"
+                },
+                {
+                    "source": "James Moore",
+                    "source-url": "https://www.madinamerica.com",
+                    "url": "https://www.madinamerica.com/2012/06/after-seroquel/",
+                    "pub-date": "Mon, 25 Jun 2012 07:00:00 GMT",
+                    "title": "Seroquel Withdrawal - James Moore"
+                },
+                {
+                    "source": "EDMTunes",
+                    "source-url": "https://www.edmtunes.com",
+                    "url": "https://www.edmtunes.com/2018/02/snapchat-rolls-out-snap-maps-online/",
+                    "pub-date": "Tue, 13 Feb 2018 08:00:00 GMT",
+                    "title": "Snapchat Rolls Out Snap Maps Online - EDMTunes"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/home/gardening/article-3501755/Monty-Don-s-ultimate-makeover-guide-help-create-dream-garden.html",
+                    "pub-date": "Sun, 20 Mar 2016 07:00:00 GMT",
+                    "title": "How to create the dream garden in this ultimate makeover guide - Daily Mail"
+                },
+                {
+                    "source": "San Jose Mercury News",
+                    "source-url": "http://blogs.mercurynews.com",
+                    "url": "http://blogs.mercurynews.com/giants/2012/12/25/championship-year-in-review-from-april-to-october-in-their-own-words/",
+                    "pub-date": "Tue, 25 Dec 2012 08:00:00 GMT",
+                    "title": "Championship Year in Review: From April to October, in their own words - Giants Extra - San Jose Mercury News"
+                },
+                {
+                    "source": "The Guardian",
+                    "source-url": "https://www.theguardian.com",
+                    "url": "https://www.theguardian.com/world/2013/nov/05/eastern-congo-mental-health-catastrophe-brutality",
+                    "pub-date": "Tue, 05 Nov 2013 08:00:00 GMT",
+                    "title": "Eastern Congo grapples with mental health catastrophe after years of war - The Guardian"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2581445/Roger-Mortimers-uproarious-dispatches-daughter-Jane.html",
+                    "pub-date": "Fri, 14 Mar 2014 07:00:00 GMT",
+                    "title": "Roger Mortimer's uproarious dispatches to his daughter Jane - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/femail/food/article-3051945/Irish-chef-Donal-Skehan-new-Jamie-Oliver.html",
+                    "pub-date": "Fri, 24 Apr 2015 07:00:00 GMT",
+                    "title": "Irish chef Donal Skehan could be the new Jamie Oliver - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-3123135/Stately-home-adventurer-fatal-Morocco-plunge-Cambridge-educated-journalist-fell-stroll-watch-sunrise.html",
+                    "pub-date": "Sat, 13 Jun 2015 07:00:00 GMT",
+                    "title": "Journalist Charlie Norton 'fell during stroll in Morocco to watch sunrise' - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/femail/article-1211648/Hes-king-Mustique-barman-knows-secrets-Winehouse-Jagger--hes-going-tell-.html",
+                    "pub-date": "Mon, 07 Sep 2009 07:00:00 GMT",
+                    "title": "The Mustique barman who knows the secrets of everyone from Winehouse to Jagger - is about to tell all... - Daily Mail"
+                },
+                {
+                    "source": "China.org.cn",
+                    "source-url": "http://live.china.org.cn",
+                    "url": "http://live.china.org.cn/2014/07/07/live-ceremony-marking-77-years-of-the-war-against-japanese-aggression/",
+                    "pub-date": "Mon, 07 Jul 2014 07:00:00 GMT",
+                    "title": "Ceremony marking 77 years of the war against Japanese aggression \u2013 China.org.cn Live \u2013 Live updates on top news stories and major events - China.org.cn"
+                },
+                {
+                    "source": "Cosas M\u00e9xico",
+                    "source-url": "https://revistacosas.mx",
+                    "url": "https://revistacosas.mx/showbiz/2019/12/05/veronica-castro-pone-pausa-a-su-retiro-y-se-integra-a-remake-coreano/",
+                    "pub-date": "Thu, 05 Dec 2019 08:00:00 GMT",
+                    "title": "Ver\u00f3nica Castro pone pausa a su retiro y se integra a remake coreano - Cosas M\u00e9xico"
+                },
+                {
+                    "source": "Gapers Block",
+                    "source-url": "http://gapersblock.com",
+                    "url": "http://gapersblock.com/ac/art/",
+                    "pub-date": "Wed, 08 Dec 2010 23:21:49 GMT",
+                    "title": "A/C : Chicago Arts & Culture - Art - Gapers Block"
+                },
+                {
+                    "source": "Eurogamer.net",
+                    "source-url": "https://www.eurogamer.net",
+                    "url": "https://www.eurogamer.net/articles/2013-06-11-live-sony-e3-2013-conference",
+                    "pub-date": "Tue, 11 Jun 2013 07:00:00 GMT",
+                    "title": "Live: Sony E3 2013 Conference \u2022 Eurogamer.net - Eurogamer.net"
+                },
+                {
+                    "source": "The INDsider",
+                    "source-url": "http://theind.com",
+                    "url": "http://theind.com/LaLaLand/terrifying-video-of-guide-in-alligator-infested-water-3495/",
+                    "pub-date": "Fri, 05 Dec 2014 21:22:01 GMT",
+                    "title": "\"Terrifying\" video of guide in \"alligator-infested\" water - The INDsider"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2712647/Is-Ben-Fogle-Britain-s-unluckiest-man-Mugged-Carjacked-Drink-spiked-Stabbed-Burgled-twice-Attacked-flesh-eating-bug-Heaven-forbid-TV-star-exaggerated-woes-just-little.html",
+                    "pub-date": "Fri, 01 Aug 2014 07:00:00 GMT",
+                    "title": "Is Ben Fogle Britain's unluckiest man? - Daily Mail"
+                },
+                {
+                    "source": "Scout Magazine",
+                    "source-url": "https://scoutmagazine.ca",
+                    "url": "https://scoutmagazine.ca/2013/02/03/diner-a-look-inside-chef-makoto-onos-stylish-pidgin-on-the-downtown-eastside/",
+                    "pub-date": "Sun, 03 Feb 2013 08:00:00 GMT",
+                    "title": "DINER: A Look Inside Chef Makoto Ono's Stylish 'PiDGiN' On The Downtown Eastside - Scout Magazine"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/real-life/greggs-giving-away-free-spicy-20549957",
+                    "pub-date": "Thu, 10 Oct 2019 07:00:00 GMT",
+                    "title": "Greggs giving away free spicy chicken and pepperoni or cheese and onion bakes - Daily Star"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/tv/simon-cowell-alicia-douvall-beans-17329673",
+                    "pub-date": "Thu, 08 Jan 2015 08:00:00 GMT",
+                    "title": "'I'll dish the dirt on Simon': Alicia Douvall is ready to spill the beans on Simon Cowell - Daily Star"
+                },
+                {
+                    "source": "Kotaku Australia",
+                    "source-url": "https://www.kotaku.com.au",
+                    "url": "https://www.kotaku.com.au/2013/12/talk-amongst-yourselves-256/",
+                    "pub-date": "Fri, 20 Dec 2013 08:00:00 GMT",
+                    "title": "Talk Amongst Yourselves - Kotaku Australia"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/news/article-2344287/Rick-Stein-rival-fish-chip-shops-bitter-battle-signs-left-bad-taste.html",
+                    "pub-date": "Wed, 19 Jun 2013 07:00:00 GMT",
+                    "title": "Rick Stein, two rival fish and chip shops and a bitter battle of the signs that has left behind a very bad tas - Daily Mail"
+                },
+                {
+                    "source": "Tadias Magazine",
+                    "source-url": "http://www.tadias.com",
+                    "url": "http://www.tadias.com/category/events/",
+                    "pub-date": "Tue, 03 Aug 2021 07:00:00 GMT",
+                    "title": "Virtual Events archive at Tadias Magazine - Tadias Magazine"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/travel/article-2005793/Brighton-B-Bs-Guest-City-Bed-Breakfast-Kemp-Town.html",
+                    "pub-date": "Tue, 21 Jun 2011 07:00:00 GMT",
+                    "title": "Brighton B&Bs: Guest and the City Bed and Breakfast in Kemp Town - Daily Mail"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/debate/article-1040334/JAN-MOIR-The-female-species-just-deadly-male--introducing-Mails-brilliant-new-columnist.html",
+                    "pub-date": "Thu, 31 Jul 2008 07:00:00 GMT",
+                    "title": "JAN MOIR: The female of the species is now just as deadly as the male...introducing the Mail's brilliant new columnist - Daily Mail"
+                },
+                {
+                    "source": "China.org.cn",
+                    "source-url": "http://live.china.org.cn",
+                    "url": "http://live.china.org.cn/2013/03/16/coming-soon-premier-li-keqiang-meets-the-press/",
+                    "pub-date": "Sat, 16 Mar 2013 07:00:00 GMT",
+                    "title": "Live: Premier Li Keqiang's debut press conference \u2013 China.org.cn Live \u2013 Live updates on top news stories and major events - China.org.cn"
+                },
+                {
+                    "source": "Daily Mail",
+                    "source-url": "https://www.dailymail.co.uk",
+                    "url": "https://www.dailymail.co.uk/tvshowbiz/celebrity/article-1086431/MEP-Kilroy-Silk-criticised-taking-time-job-appear-Im-A-Celebrity.html",
+                    "pub-date": "Sun, 16 Nov 2008 08:00:00 GMT",
+                    "title": "MEP Kilroy-Silk criticised for taking time off job to appear in I'm A Celebrity - Daily Mail"
+                },
+                {
+                    "source": "Daily Star",
+                    "source-url": "https://www.dailystar.co.uk",
+                    "url": "https://www.dailystar.co.uk/showbiz/towie-ferne-confronts-boys-find-18716081",
+                    "pub-date": "Wed, 26 Feb 2014 08:00:00 GMT",
+                    "title": "It's all kicking off! Ferne confronts TOWIE boys over Frank Major cheating secret - Daily Star"
+                },
+                {
+                    "source": "Gapers Block",
+                    "source-url": "http://gapersblock.com",
+                    "url": "http://gapersblock.com/ac/event/",
+                    "pub-date": "Wed, 16 Dec 2015 08:00:00 GMT",
+                    "title": "A/C : Chicago Arts & Culture - Event - Gapers Block"
+                },
+                {
+                    "source": "http://www.voodly.in/",
+                    "source-url": "https://www.voodly.in",
+                    "url": "https://www.voodly.in/made-natural-homemade-holi-colors/",
+                    "pub-date": "Wed, 20 Mar 2019 07:00:00 GMT",
+                    "title": "Homemade Holi Colours: Make Natural Holi Colours At Home. - http://www.voodly.in/"
+                },
+                {
+                    "source": "http://www.voodly.in/",
+                    "source-url": "https://www.voodly.in",
+                    "url": "https://www.voodly.in/things-to-know-before-travelling-to-kailash-temple-ellora/",
+                    "pub-date": "Sun, 23 Dec 2018 08:00:00 GMT",
+                    "title": "Things To Know Before Travelling To Kailash Temple Ellora. - http://www.voodly.in/"
+                },
+                {
+                    "source": "http://www.voodly.in/",
+                    "source-url": "https://www.voodly.in",
+                    "url": "https://www.voodly.in/8-best-places-visit-jaipur/",
+                    "pub-date": "Sat, 28 Jul 2018 07:00:00 GMT",
+                    "title": "8 Top Iconic Heritage Places To Visit During Journey To Jaipur. - http://www.voodly.in/"
+                },
+                {
+                    "source": "WOLF STREET",
+                    "source-url": "https://wolfstreet.com",
+                    "url": "https://wolfstreet.com/2021/08/18/shortages-in-charts-new-used-vehicle-inventories-collapsed-supply-at-clothing-stores-gets-tight-grocery-stores-back-to-normal/",
+                    "pub-date": "Wed, 18 Aug 2021 07:00:00 GMT",
+                    "title": "Shortages in Charts: New & Used Vehicle Inventories Collapsed, Supply at Clothing Stores Gets Tight, Food Stores Near Normal - WOLF STREET"
+                },
+                {
+                    "source": "Anime Superhero News",
+                    "source-url": "https://animesuperhero.com",
+                    "url": "https://animesuperhero.com/forums/threads/old-international-disney-channel-toon-disney-playhouse-disney-and-disney-cinemagic-schedules.5256301/",
+                    "pub-date": "Tue, 28 Aug 2012 07:00:00 GMT",
+                    "title": "Old International Disney Channel, Toon Disney, Playhouse Disney and Disney Cinemagic Schedules - Anime Superhero News"
+                },
+                {
+                    "source": "Heavy.com",
+                    "source-url": "https://heavy.com",
+                    "url": "https://heavy.com/gifts/best-gifts-under-50-for-him/",
+                    "pub-date": "Wed, 15 Sep 2021 07:00:00 GMT",
+                    "title": "75 Best Gifts Under $50 for Him (2021) - Heavy.com"
+                },
+                {
+                    "source": "Communal News",
+                    "source-url": "https://communalnews.com",
+                    "url": "https://communalnews.com/contributors/",
+                    "pub-date": "Fri, 18 Jan 2019 00:44:16 GMT",
+                    "title": "Contributor Partners - Communal News"
+                },
+                {
+                    "source": "Consortium News",
+                    "source-url": "https://consortiumnews.com",
+                    "url": "https://consortiumnews.com/about/",
+                    "pub-date": "Sun, 07 Dec 2014 09:51:12 GMT",
+                    "title": "About \u2013 Consortiumnews - Consortium News"
+                },
+                {
+                    "source": "Neon Limelight",
+                    "source-url": "https://neonlimelight.com",
+                    "url": "https://neonlimelight.com/2011/06/29/selena-gomez-katy-perry-rihanna-score-2011-teen-choice-awards-nominations/",
+                    "pub-date": "Wed, 29 Jun 2011 07:00:00 GMT",
+                    "title": "Selena Gomez, Katy Perry, Rihanna Score 2011 Teen Choice Awards Nominations - Neon Limelight"
+                }
+            ]
+        }
+    }
+}

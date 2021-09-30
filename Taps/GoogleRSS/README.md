@@ -17,6 +17,7 @@ opath = '../Taps/GoogleRSS/output'
 query = ['GME stock']
 # Time Bound
 when = '3hr'
+
 with GoogleRSS(out_path=opath) as goog:
     results = goog.get_xml(
         query=query, when=when)

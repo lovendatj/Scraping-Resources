@@ -1,0 +1,56 @@
+{
+    "process": "GoogleRSS",
+    "date": "09/30/2021-11:52:52",
+    "logs": [
+        {
+            "timestamp": "0:00:00.000006",
+            "type": "LOG",
+            "message": "[GoogleRSS] Process started."
+        },
+        {
+            "timestamp": "0:00:00.001300",
+            "type": "LOG",
+            "message": "[GoogleRSS] Output path: '../output/google-rss'"
+        },
+        {
+            "timestamp": "0:00:00.001362",
+            "type": "LOG",
+            "message": "[Term] Apples new phone: [Request]: https://news.google.com/rss/search?q=Apples%20new%20phone+when=24h&ceid=US:en&hl=en-US&gl=US"
+        },
+        {
+            "timestamp": "0:00:00.700650",
+            "type": "LOG",
+            "message": "[Term] Apples new phone: Completed request."
+        },
+        {
+            "timestamp": "0:00:01.201310",
+            "type": "LOG",
+            "message": "[Term] Adventures of Mr. Bean: [Request]: https://news.google.com/rss/search?q=Adventures%20of%20Mr.%20Bean+when=24h&ceid=US:en&hl=en-US&gl=US"
+        },
+        {
+            "timestamp": "0:00:01.781820",
+            "type": "LOG",
+            "message": "[Term] Adventures of Mr. Bean: Completed request."
+        },
+        {
+            "timestamp": "0:00:02.282309",
+            "type": "LOG",
+            "message": "[FILE] Writing to ../output/google-rss/data/09302021-14e08374-9f85-497c-bd56-7e0f158b24f0.json file."
+        },
+        {
+            "timestamp": "0:00:02.289174",
+            "type": "LOG",
+            "message": "[FILE] Data written to data/09302021-14e08374-9f85-497c-bd56-7e0f158b24f0.json."
+        },
+        {
+            "timestamp": "0:00:02.289617",
+            "type": "LOG",
+            "message": "[FILE] Logs written to logs/09302021-673f6eb5-b55c-422e-ae2d-d8df9c2b427a.json."
+        },
+        {
+            "timestamp": "0:00:02.289632",
+            "type": "LOG",
+            "message": "[GoogleRSS] Process Completed."
+        }
+    ]
+}
