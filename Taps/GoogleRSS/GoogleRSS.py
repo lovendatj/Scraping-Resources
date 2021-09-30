@@ -21,9 +21,9 @@ class GoogleRSS:
         self.out_path = str(
             kwargs['out_path']) if 'out_path' in kwargs.keys() and kwargs['out_path'] is not None else None
         self.default_link = 'https://news.google.com/rss/search?'
+        self.process = self._type()
 
     def __enter__(self, *args, **kwargs) -> GoogleRSS:
-        self.process = self._type()
         self.logger = LogEvent(self.process, verbose=self.verbose)
         self.logger.log_info(
             f'[{self.process}] Process started.')
