@@ -7,16 +7,19 @@ The Google RSS News Feed utilizes Google Search with up-to date articles publish
 > [https://news.google.com/rss/search?q=`term`&hl=en-US&gl=US&ceid=US:en](https://news.google.com/rss/search?q=`term`&hl=en-US&gl=US&ceid=US:en)
 
 #### Sample code
-To customize the GoogleRSS Object, add string elements to the `query` parameter to change searched results from the Google RSS Feed. 
+To customize the GoogleRSS Object, add string elements to the `query` parameter to change searched results from the Google RSS Feed. Adding the when parameter (e.g. "3hr") to restrict the time frame. 
 ```python
 from Taps.GoogleRSS.GoogleRSS import GoogleRSS
 
 # Output file path
 opath = '../Taps/GoogleRSS/output'
-
+# Search Term
+query = ['GME stock']
+# Time Bound
+when = '3hr'
 with GoogleRSS(out_path=opath) as goog:
     results = goog.get_xml(
-        query=['GME stock'], when='24h')
+        query=query, when=when)
     goog.file_out(results)
 ```
 
