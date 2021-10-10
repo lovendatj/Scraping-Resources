@@ -6,8 +6,8 @@ Scraping Resources is a one-stop-shop for data from individuals taps. Current ta
 
 Install the dependencies using the following commands for deployment. 
 ```bash
-virtualenv venv
-source venv/Scripts/activate
+virtualenv <venv name>
+source <venv name>/Scripts/activate
 pip install -r requirements.txt 
 ```
 To leave the virtual environment use the following command
